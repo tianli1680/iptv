@@ -82,13 +82,34 @@ jobs:
             
             return channels
         
-        def write_m3u_file(filename, channel_list):
-            """写入m3u文件"""
+        def update_group_title(header, new_group):
+            """更新分组名称的辅助函数"""
+            # 如果已有group-title，则更新
+            if 'group-title=' in header:
+                pattern = r'group-title="([^"]*)"'
+                new_header = re.sub(pattern, f'group-title="{new_group}"', header)
+                return new_header
+            else:
+                # 如果没有，则添加
+                parts = header.split(',', 1)
+                if len(parts) == 2:
+                    new_header = parts[0] + f' group-title="{new_group}",' + parts[1]
+                else:
+                    new_header = header + f' group-title="{new_group}"'
+                return new_header
+        
+        def write_m3u_file(filename, channel_list, group_name=None):
+            """写入m3u文件，并可选地更新group-title"""
             if channel_list:
                 with open(filename, 'w', encoding='utf-8') as f:
                     f.write('#EXTM3U\n')
                     for channel in channel_list:
-                        f.write(channel['header'] + '\n')
+                        header = channel['header']
+                        # 如果指定了group_name，则更新header
+                        if group_name:
+                            header = update_group_title(header, group_name)
+                            channel['header'] = header
+                        f.write(header + '\n')
                         f.write(channel['url'] + '\n')
                 print(f"已写入: {filename} ({len(channel_list)} 个频道)")
                 return True
@@ -145,11 +166,11 @@ jobs:
             print(f"live3 (cctv): {len(live3_channels)} 个频道")
             print(f"live4 (卫视): {len(live4_channels)} 个频道")
             
-            # 写入文件
-            write_m3u_file('live1.m3u', live1_channels)
-            write_m3u_file('live2.m3u', live2_channels)
-            write_m3u_file('live3.m3u', live3_channels)
-            write_m3u_file('live4.m3u', live4_channels)
+            # 写入文件并更新group-title
+            write_m3u_file('live1.m3u', live1_channels, '央视频道')
+            write_m3u_file('live2.m3u', live2_channels, '卫视频道')
+            write_m3u_file('live3.m3u', live3_channels, '央视咪咕')
+            write_m3u_file('live4.m3u', live4_channels, '卫视咪咕')
         
         # 处理第二个链接
         print("\n=== 处理第二个链接 ===")
@@ -200,13 +221,13 @@ jobs:
             print(f"live9 (冰茶体育): {len(live9_channels)} 个频道")
             print(f"live10 (凤凰频道): {len(live10_channels)} 个频道")
             
-            # 写入文件
-            write_m3u_file('live5.m3u', live5_channels)
-            write_m3u_file('live6.m3u', live6_channels)
-            write_m3u_file('live7.m3u', live7_channels)
-            write_m3u_file('live8.m3u', live8_channels)
-            write_m3u_file('live9.m3u', live9_channels)
-            write_m3u_file('live10.m3u', live10_channels)
+            # 写入文件并更新group-title
+            write_m3u_file('live5.m3u', live5_channels, '影视频道')
+            write_m3u_file('live6.m3u', live6_channels, '虎牙影视')
+            write_m3u_file('live7.m3u', live7_channels, '游戏赛事')
+            write_m3u_file('live8.m3u', live8_channels, '咪视界bc')
+            write_m3u_file('live9.m3u', live9_channels, '冰茶体育')
+            write_m3u_file('live10.m3u', live10_channels, '凤凰频道')
         
         # 重命名文件
         print("\n=== 重命名文件 ===")
