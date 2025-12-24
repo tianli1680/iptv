@@ -29,7 +29,6 @@ jobs:
         import urllib.request
         import urllib.parse
         import os
-        import json
         
         # 定义处理函数
         def download_m3u(url):
@@ -108,7 +107,6 @@ jobs:
                         # 如果指定了group_name，则更新header
                         if group_name:
                             header = update_group_title(header, group_name)
-                            channel['header'] = header
                         f.write(header + '\n')
                         f.write(channel['url'] + '\n')
                 print(f"已写入: {filename} ({len(channel_list)} 个频道)")
@@ -229,6 +227,20 @@ jobs:
             write_m3u_file('live9.m3u', live9_channels, '冰茶体育')
             write_m3u_file('live10.m3u', live10_channels, '凤凰频道')
         
+        # 处理新增的iqiyi1链接
+        print("\n=== 处理新增iqiyi1链接 ===")
+        iqiyi1_url = "https://raw.githubusercontent.com/tianli1680/rihou/refs/heads/main/iqiyi1.m3u"
+        
+        iqiyi1_content = download_m3u(iqiyi1_url)
+        if not iqiyi1_content:
+            print("iqiyi1链接下载失败，跳过处理")
+        else:
+            iqiyi1_channels = parse_m3u(iqiyi1_content)
+            print(f"iqiyi1链接: 解析到 {len(iqiyi1_channels)} 个频道")
+            
+            # 直接保存为爱奇频道.m3u，并设置group-title为"爱奇频道"
+            write_m3u_file('爱奇频道.m3u', iqiyi1_channels, '爱奇频道')
+        
         # 重命名文件
         print("\n=== 重命名文件 ===")
         rename_mapping = {
@@ -254,14 +266,19 @@ jobs:
             else:
                 print(f"文件不存在，跳过重命名: {old_name}")
         
+        # 添加爱奇频道到映射表
+        if os.path.exists('爱奇频道.m3u'):
+            file_map['爱奇频道.m3u'] = '爱奇频道.m3u'
+        
         # 整合所有文件为iptv.m3u
         print("\n=== 整合所有文件为iptv.m3u ===")
         
-        # 按要求的顺序整合
+        # 按要求的顺序整合：央视频道、卫视频道、影视频道、虎牙影视、凤凰频道、
+        # 游戏赛事、咪视界bc、冰茶体育、央视咪咕、卫视咪咕、爱奇频道
         integration_order = [
-            'live1.m3u', 'live2.m3u', 'live3.m3u', 'live4.m3u',
-            'live5.m3u', 'live6.m3u', 'live7.m3u', 'live8.m3u',
-            'live9.m3u', 'live10.m3u'
+            'live1.m3u', 'live2.m3u', 'live5.m3u', 'live6.m3u',
+            'live10.m3u', 'live7.m3u', 'live8.m3u', 'live9.m3u',
+            'live3.m3u', 'live4.m3u', '爱奇频道.m3u'
         ]
         
         channel_count = 0
@@ -269,7 +286,7 @@ jobs:
             f.write('#EXTM3U\n')
             
             for original_name in integration_order:
-                # 获取重命名后的文件名
+                # 获取重命名后的文件名（如果是live文件）或直接使用原文件名
                 actual_name = file_map.get(original_name, original_name)
                 
                 if os.path.exists(actual_name):
@@ -294,6 +311,10 @@ jobs:
         
         # 保存文件列表供后续提交使用
         all_files = list(file_map.values()) + ['iptv.m3u']
+        # 添加爱奇频道.m3u（如果不在列表中）
+        if '爱奇频道.m3u' not in all_files and os.path.exists('爱奇频道.m3u'):
+            all_files.append('爱奇频道.m3u')
+        
         with open('processed_files.txt', 'w', encoding='utf-8') as f:
             for filename in all_files:
                 f.write(filename + '\n')
