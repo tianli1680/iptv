@@ -111,6 +111,8 @@ http://live.188766.xyz/huya/21059596
 http://live.188766.xyz/huya/21059554
 #EXTINF:-1 tvg-id="搞笑_陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",搞笑_陈翔六点半
 http://live.188766.xyz/huya/11274154
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/17091681&huya&logo" group-title="虎牙影视",音乐石榴[音乐]
+http://live.188766.xyz/huya/17091681
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21241811&huya&logo" group-title="虎牙影视",治愈放松[音乐]
 http://live.188766.xyz/huya/21241811
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21241813&huya&logo" group-title="虎牙影视",阅读学习[音乐]
@@ -127,8 +129,12 @@ http://live.188766.xyz/huya/26355850
 http://live.188766.xyz/huya/11342386
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342421&huya&logo" group-title="虎牙影视",7喜先生
 http://live.188766.xyz/huya/11342421
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23796393&huya&logo" group-title="虎牙影视",赢城-江爽
+http://live.188766.xyz/huya/23796393
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355802&huya&logo" group-title="虎牙影视",之而成冠毛
 http://live.188766.xyz/huya/26355802
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/25129377&huya&logo" group-title="虎牙影视",梦梦影视
+http://live.188766.xyz/huya/25129377
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602068&huya&logo" group-title="虎牙影视",我爱黑科技
 http://live.188766.xyz/huya/11602068
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342435&huya&logo" group-title="虎牙影视",可爱的小强
@@ -189,14 +195,10 @@ http://live.188766.xyz/huya/21059567
 http://live.188766.xyz/huya/11342425
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355781&huya&logo" group-title="虎牙影视",探索
 http://live.188766.xyz/huya/26355781
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342424&huya&logo" group-title="虎牙影视",刘德华
-http://live.188766.xyz/huya/11342424
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11274154&huya&logo" group-title="虎牙影视",陈翔六点半
 http://live.188766.xyz/huya/11274154
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21136378&huya&logo" group-title="虎牙影视",周星驰吧
 http://live.188766.xyz/huya/21136378
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11601968&huya&logo" group-title="虎牙影视",电影_沈腾
-http://live.188766.xyz/huya/11601968
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352876&huya&logo" group-title="虎牙影视",电影_黄渤
 http://live.188766.xyz/huya/11352876
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21059581&huya&logo" group-title="虎牙影视",电影_强森
@@ -215,8 +217,6 @@ http://live.188766.xyz/huya/11352962
 http://live.188766.xyz/huya/11279247
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602041&huya&logo" group-title="虎牙影视",电影_推荐
 http://live.188766.xyz/huya/11602041
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602081&huya&logo" group-title="虎牙影视",三国演义
-http://live.188766.xyz/huya/11602081
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30080255&huya&logo" group-title="虎牙影视",乡村爱情
 http://live.188766.xyz/huya/30080255
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602071&huya&logo" group-title="虎牙影视",父母爱情
@@ -239,18 +239,12 @@ http://live.188766.xyz/huya/29580970
 http://live.188766.xyz/huya/11342426
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602085&huya&logo" group-title="虎牙影视",杨光
 http://live.188766.xyz/huya/11602085
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29982639&huya&logo" group-title="虎牙影视",庆余年
-http://live.188766.xyz/huya/29982639
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352872&huya&logo" group-title="虎牙影视",家有儿女|种瓜得弟弟
 http://live.188766.xyz/huya/11352872
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/22592516&huya&logo" group-title="虎牙影视",虹猫蓝兔系列|虹猫蓝兔官方
 http://live.188766.xyz/huya/22592516
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11336726&huya&logo" group-title="虎牙影视",爱情公寓|武林萌主唐小姐
-http://live.188766.xyz/huya/11336726
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23740156&huya&logo" group-title="虎牙影视",埋堆堆官方
 http://live.188766.xyz/huya/23740156
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23865142&huya&logo" group-title="虎牙影视",港剧慢品汇
-http://live.188766.xyz/huya/23865142
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342393&huya&logo" group-title="虎牙影视",漫长的季节
 http://live.188766.xyz/huya/11342393
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23865058&huya&logo" group-title="虎牙影视",笑看风云
@@ -281,8 +275,6 @@ http://live.188766.xyz/huya/11602069
 http://live.188766.xyz/huya/11342394
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30219264&huya&logo" group-title="虎牙影视",燕双鹰
 http://live.188766.xyz/huya/30219264
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355767&huya&logo" group-title="虎牙影视",乌龙闯情关
-http://live.188766.xyz/huya/26355767
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342430&huya&logo" group-title="虎牙影视",领带哥
 http://live.188766.xyz/huya/11342430
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/28272846&huya&logo" group-title="虎牙影视",和珅
@@ -295,8 +287,6 @@ http://live.188766.xyz/huya/30311494
 http://live.188766.xyz/huya/16144175
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11774959&huya&logo" group-title="虎牙影视",电影最top
 http://live.188766.xyz/huya/11774959
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/20488841&huya&logo" group-title="虎牙影视",阿良说美剧
-http://live.188766.xyz/huya/20488841
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352934&huya&logo" group-title="虎牙影视",热血
 http://live.188766.xyz/huya/11352934
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352879&huya&logo" group-title="虎牙影视",猫和老鼠
@@ -311,8 +301,6 @@ http://live.188766.xyz/huya/26355866
 http://live.188766.xyz/huya/29982670
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="虎牙影视",搞笑一家人
 http://live.188766.xyz/huya/11342402
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342439&huya&logo" group-title="虎牙影视",我是詹密
-http://live.188766.xyz/huya/11342439
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23650804&huya&logo" group-title="虎牙影视",马大帅
 http://live.188766.xyz/huya/23650804
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21059588&huya&logo" group-title="虎牙影视",虎牙21059588
