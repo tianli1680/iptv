@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-https://migu.188766.xyz/?migutoken=18e8d8a62f095179a4c0ce12e6f40fd7&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="影视频道",CHC动作电影
-https://migu.188766.xyz/?migutoken=f473d0c4bd318eadab857d8944be9ea0&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 https://migu.188766.xyz/?migutoken=43e8e845ec242cb9b9bbf6a020795474&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="影视频道",五星体育
