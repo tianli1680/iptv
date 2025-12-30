@@ -174,7 +174,7 @@ jobs:
         
         # 处理第二个链接
         print("\n=== 处理第二个链接 ===")
-        url2 = "https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=mianfeibuhuaqian&huikan=1"
+        url2 = "https://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130&huikan=1"
         
         content2 = download_m3u(url2)
         if not content2:
