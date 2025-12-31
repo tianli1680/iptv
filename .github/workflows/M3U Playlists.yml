@@ -127,7 +127,8 @@ jobs:
         
         # 处理第一个链接
         print("=== 处理第一个链接 ===")
-        url1 = "https://live.ottiptv.cc/iptv.m3u?userid=8137863657&sign=2c8d82c9f17f480726d4770be9d0fb33fd0fcb31e1024448c36663605ea6a3f99e5bd467b68c287e3f0c07f85b95a188139aa3f19e227e251dc707bce0ededaab73ceeaddf6195&auth_token=54741b289e946919fc1c34ca88db58a4"
+        url1 = "https://live.ottiptv.cc/iptv.m3u?userid=8137863657&sign=6bfc4bdbe576cd4e7e21cdfb93380679cba04c74c9f368cbdd4ee0de6c990936e791ed6e3259496eeeb931d6d671d8ab1160920632de64e1b8515b163ec7bda205b5622fc5a863&auth_token=54741b289e946919fc1c34ca88db58a4
+"
         
         content1 = download_m3u(url1)
         if not content1:
