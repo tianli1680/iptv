@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="凤凰频道",凤凰中文
-https://mgev.188766.xyz/?migutoken=0dad9523caba92e76c6b26cc54691eaf&id=fhzw&pp=1
+https://mgev.188766.xyz/?migutoken=9c8b72bb99ecfcf9c60ab88f2bdededb&id=fhzw&pp=1
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="凤凰频道",凤凰中文
-https://mgev.188766.xyz/?migutoken=6eaa1dd920d0070b72d02a9f7636f96c&id=hk_fhzw&type=dy
+https://mgev.188766.xyz/?migutoken=4c8d378fb3681d3266f7d8751d53b8b0&id=hk_fhzw&type=dy
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="凤凰频道",凤凰资讯
-https://mgev.188766.xyz/?migutoken=1b775403c60c74a92442846edb1b7de6&id=fhzx&pp=1
+https://mgev.188766.xyz/?migutoken=5edac458fe0207df523d99611b6124f8&id=fhzx&pp=1
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="凤凰频道",凤凰资讯
-https://mgev.188766.xyz/?migutoken=d5a86d1d1fcfa401152427bfbe6ec82d&id=hk_fhzx&type=dy
+https://mgev.188766.xyz/?migutoken=aae3e70634e44b86454b5a203859e92d&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="凤凰频道",凤凰香港
-https://mgev.188766.xyz/?migutoken=edb7f10bff9f71b5bb440982eb522b96&id=fhhk&pp=1
+https://mgev.188766.xyz/?migutoken=f4dd35d546f2ad00646c5c734cafe035&id=fhhk&pp=1
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="凤凰频道",凤凰香港
-https://mgev.188766.xyz/?migutoken=645e4c7b153c4ca9b43d1dfab24fa0c9&id=hk_fhhk&type=dy
+https://mgev.188766.xyz/?migutoken=8121edd6f31c31128de343a7fee199c7&id=hk_fhhk&type=dy
