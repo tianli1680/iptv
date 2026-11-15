@@ -1,0 +1,48 @@
+name: Update TV M3U
+
+on:
+  schedule:
+    # 北京时间 = UTC+8，所以对应 UTC 时间如下：
+    # 每天 08:00（北京时间）→ UTC 00:00
+    - cron: '0 0 * * *'
+    # 每天 13:00（北京时间）→ UTC 05:00
+    - cron: '0 5 * * *'
+    # 每天 18:00（北京时间）→ UTC 10:00
+    - cron: '0 10 * * *'
+  # 支持手动触发，方便测试
+  workflow_dispatch:
+
+# 赋予仓库读写权限，用于创建/更新文件并推送
+permissions:
+  contents: write
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download tv.m3u from source
+        run: |
+          # 原始链接，直接整体下载，不做任何内容/格式修改
+          SRC_URL="https://raw.githubusercontent.com/tianli1680/xiaoyumengmeng/refs/heads/main/tv.m3u"
+          curl -fsSL --retry 3 --retry-delay 5 "$SRC_URL" -o tv.m3u
+          echo "Downloaded size: $(wc -c < tv.m3u) bytes"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add tv.m3u
+
+          # 无变化则跳过提交
+          if git diff --cached --quiet; then
+            echo "No changes detected, skip commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update tv.m3u ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
+          git push
