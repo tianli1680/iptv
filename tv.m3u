@@ -1,240 +1,240 @@
 #EXTM3U x-tvg-url="http://iptvtool.iptvlive.cc.cd/t.xml.gz"
-#EXTINF:-1 group-title="更新时间",2026-11-21 07:10:49
+#EXTINF:-1 group-title="更新时间",2026-11-23 12:16:40
 null
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
-https://mursor.ottiptv.cc/mcp/cctv1.m3u8?userid=7576776924&sign=f08c7d6676fd8f77b8216f84f1a308741af7fe7a072c8e61d099d15bbd13752386263f2bee0932749d86c52ecb7e11f0bdf2f9c06258e1b8cd6cb8608704281359ce85976a308e2281a0d72ddc&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv1.m3u8?userid=7576776924&sign=042bedff3c0884536cb27c5424d49e2bc95d3013cd71f619b2d8c248eb36e252d4221c2bb7e23bd76a30f21d4bc2fb6e228b421d4cac75a9836a1e05d9db5ba78784dc7a7751d46425a59c7812&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
-https://mursor.ottiptv.cc/mcp/cctv1av3asfhd.m3u8?userid=7576776924&sign=af1e939cf9d105d7fb979ace3eb85bdb819c244a6e3f32874783914550b7393bf1823ea9a23e47e91786d31b043da22f8b909f4b488b5d9a42884ae969987d7a42e99adb5560dcbbe994149aec811cb480e6b9994a&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv1av3asfhd.m3u8?userid=7576776924&sign=473188a4e7be837b0fbe91fc35ee250eadd743e2867c9f662f09b4d8a2dedd93b3801d7e81eacce066cee979eca960d32febcfba1d659cf07065dbee1584a050cd897b5fe7e1be1afc7eec8cc47828fdb0fed48789&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
-https://mursor.ottiptv.cc/mg/608807420.m3u8?userid=8279722281&sign=965ebc2d390e74d19019f4991f41d690ba5e62bc2bae0d1eed85d54b191b65bf3de567c424aff8c1726d8b5e537e7be2ff2abed8de8fbae79d7627ff956044c08caf46cd82fddf6b11e675148f694c5dd0&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/608807420.m3u8?userid=6356119344&sign=74df289460bd16bf1f44bec2f960e54f11605e1151334b2849747cb2ca45d3d0826e99126497317778d763804febc5306162c02824858a04b3fc3f92322ebf460800515a2905e906c49b943ad8d7ff4e29&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
 https://m3u8.iepose.cn/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
-https://mursor.ottiptv.cc/mcp/cctv2.m3u8?userid=7576776924&sign=726ca8e1a7e4f338895787c157e14741ae318a234d58e2a56fd8cd20202364aa6637058f0569ed9667863b6a7cae1d8fa5f6bbff32006135089c5f7ffe64357455ca14acb656ab0d2d8a1cb6ef&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv2.m3u8?userid=7576776924&sign=7bd897245feed7407b2af6392e261b24645d2318a3694181990620a87287fbc9d0913b246b4935df31f1f28cf5deea533663ac792f66a779f7d18cc3bf60e5f78b13e436ad48e7902df35f293c&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
-https://mursor.ottiptv.cc/mcp/cctv2av3asfhd.m3u8?userid=7576776924&sign=b1268aa0998c87fc7928e4497a3aab8efc5d353c2a438ffc06fdac0d7842e22d89b2c31a055de2cc2f14800cac30978055d1e93ad4cbe56f5058d6b62ea83cb45bf6c1245ef1243cd827e98a4d6c84b4532f1194b5&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv2av3asfhd.m3u8?userid=7576776924&sign=b0215bc7e071806876e1e16141d24e1126012483cfe11a59702cf05ee8d98fc406422e1ed5e0d3e37edee7cd2623ef05164082bbf8bdc0ce5597f7906a2fcb065bf037be83d366fff6648a3b341f7639543c1a5dff&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
-https://mursor.ottiptv.cc/mg/631780532.m3u8?userid=8279722281&sign=656193ae93499c996260ce67aa3538135bb7ea510dba7d712bc86347c69926a93b417182a2c28c144d13dd880b8625b96836e8915bec0006cdd94a4f146d076ff846aab60c7648548bdbbd5d1254c5fbc0&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/631780532.m3u8?userid=6356119344&sign=c9fa6fa365424580a82056ee873442dad7e717bf800ca8d4dde14b1de8bca9ea39eedf6c4f890e47b4f0a25a3e585522208ada2da1e25b2980a696e5fb59dc291a7021775fcc1f242db3142c1d33128958&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
 https://m3u8.iepose.cn/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
-https://mursor.ottiptv.cc/mcp/cctv3.m3u8?userid=7576776924&sign=f8e866bfbdf434e5143c12b5fda64204b599d48ba0fd93f3eff96aa42c504414b55d993a1f0c8421cd30a4d490ecb29020a5d5e999475ceb3161711b66da70fbfe374ea5832ac755b4c7cad0e6&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv3.m3u8?userid=7576776924&sign=cebbcb4e839aab6873553b8606e6600d324f1c248304ba46850ea73d17dd40f8b4a9e412e6a651a7a5401ffaddc225136e419ef28d4d836edc6d49dbed9907b5ad52b79b78d6dd9b9d2ff91a54&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
-https://mursor.ottiptv.cc/mcp/cctv3av3asfhd.m3u8?userid=7576776924&sign=aaaea93c5742188937a6608510d5303d7149875be4dabf9a5df832d2e02e59b8b4c9d7d2f5c04275e05c7f6ba27eb47c0e20d6ceebc5a8944771f39fb6be3b14e1e15b9a21e48d64d860a6e183fae2ed7f98cd9252&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv3av3asfhd.m3u8?userid=7576776924&sign=100797f27fbfd60318c19edfcdd353e939a006c43a3316f9852645da2f9c45e6fd6db8b6de49233d5230fea20ecfbcb062143f11970154c48e8a5f8510e3fd23a3a6b528bfcbc509f2e372ba98996b8cb126a0dffa&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
-https://mursor.ottiptv.cc/mg/624878271.m3u8?userid=8279722281&sign=d2fc3d392c072b63c9d180876fc0c68edc85568187086b8adedb3e2bd542b5a6025eb3331e9444c7025dd483fbb0e93f1c8d5329595aba9fa28bc99dcc943746cbe24c9476f19b231d27ca5d8d6931981c&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/624878271.m3u8?userid=6356119344&sign=0c16df684288a5ba3e12f97f267e1a61d2dec98c01abd8355c6a52412093141df03ad9e8d39904eee07805fccdbdee172f68ec69ee761634b86aa3935defb76ee00ea04dadaf16fbcd01bc23d1010fadb2&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
 https://m3u8.iepose.cn/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
-https://mursor.ottiptv.cc/mcp/cctv4.m3u8?userid=7576776924&sign=8289b0e2b55e6c81c72284c1f17bc0b27f5cbec05d67468b72ae885bf253bdca3f1f02263bb39aae48423285fcb353177251753d75be5202af516cb3b9a7e67dee008142e852970d5c41d15824&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv4.m3u8?userid=7576776924&sign=245b40d394b6be6d05877b86a460cf6fe32fc64e46da67877a1ba745284a54c1bb55643b3fe0ade6a0d72d677e952e81ccbe46589f18c6f2583a6478d4a18b5f12357c089277d7d90f44902abd&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
-https://mursor.ottiptv.cc/mcp/cctv4av3asfhd.m3u8?userid=7576776924&sign=795c2d3c7b364feb59e4dcf744166dc51455d59fba5a2eafc440d8d62ec9d9a697b0889bebbe9033061a573ead060e9ee4744b5f3b3c8cfc528fa2d130bfb3d76fd1cabbb56d586f7d54e5418abc986f7ec5dc5ad8&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv4av3asfhd.m3u8?userid=7576776924&sign=b6a5170afd6e272979d3897a28b190b792a5dd73b0b938462ba7807d42a530cca0cd3c1cf584fd230cce59bf744ebd1981bf650228f5173709fcb785aede452c43b43a765ef0237b5198d419de2bfdaa691486ab9c&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
-https://mursor.ottiptv.cc/mg/631780421.m3u8?userid=8279722281&sign=9561ce83556be9b3444b18d54e2d813953410e52551fe338863b8dc390251cd0113f7d0f3fe6fc8796e6152ba9418d13e82e081622cdeb4ca80028ad4b802c6f7d203e23f9f93becb9db859ca393c40804&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/631780421.m3u8?userid=6356119344&sign=ce7d7cb4f82b075b297e4307ef6c804edef3ba27812fd8b243693261f6e8750cc106eb5958a6390c6ce3b2104e1386fea0bfe9cb66d31c0d0c411b3270b3ec86dbe43937fc725d7e194187229c2fa6ae1a&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
 https://m3u8.iepose.cn/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
-https://mursor.ottiptv.cc/mcp/cctv5.m3u8?userid=7576776924&sign=1f8c25880132a8fb151c547e8703a65bf431de8bdefb0cfecc49f9d1dae7465c7296f836234b6a1f5d89c5c9211abc76c652edd2028590f4ad7ad6dda067a91db79bf524c8fbd4783fc0ea8c4e&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv5.m3u8?userid=7576776924&sign=39ac4f5e3516698c4077acccaae0304435611a5631c927eccacb75b32af5c48095c397ff591b4bb729d548357f17f99d433b2e53f11de6b3b26b289d166ef74ee61753d7c7a444dafd602b0560&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
-https://mursor.ottiptv.cc/mcp/cctv5p.m3u8?userid=7576776924&sign=fa2accccd71cab0c50fac579be9c40cf524a0e3596dde2289e0a80bf01899af3df3b6f5899d8542548b55472da43cfc886c816a70336c264b4f5a56b688c8143ee851d8107a76a687670158d8596&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv5p.m3u8?userid=7576776924&sign=74fcfa208a564e902369147736042a5b1002674db78f199cf0ffe57bdd0437e055ff658187336c980ec3956c8f28a9101e037e6d1dc51ea84b310337e0842c2bd4180aed3fb2df09a500d64ce4db&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
-https://mursor.ottiptv.cc/mcp/cctv5av3asfhd.m3u8?userid=7576776924&sign=bfd0f408a2473ff8db78a9e7793ccbbd2cdb9331870141fcc5f8a52f686f751aa64708ab87d82e9f2d7d0a99ae41c089876f08a518f6676d4c605663c4befc18db854d0f5e16b65feb245f05d3c560594bf3eeb9c8&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv5av3asfhd.m3u8?userid=7576776924&sign=cd29d88a772af32f427c6202a073bd2e30e72b1467f01c1aca6f1413bde838641596cf08d816606c75513c4be646af314e6e625a2179d8559e03912a248d312ffebaaeed7bd66e9fee249e8dda80fc62951ce36c2a&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
-https://mursor.ottiptv.cc/mcp/cctv5pav3asfhd.m3u8?userid=7576776924&sign=c7b67f1026abd34b89acca47b50e07a1e557eed9563873ebc9ed83d8c221bb3318b58cee63ebebf507dc6d4b39de6aa0f4f636a027a27e1651e5bc00f63e55b11b1e99c4d6f1540e3ccb1a456cdbc5f584c2c5ce992e&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv5pav3asfhd.m3u8?userid=7576776924&sign=823e0789f75a178416cb53d41371481da446b2f954d408db68aef033867c52e6c2b5913d57c48013051b5231b45fb00b5e4951addf74b676320c1a257ff7154fa841298d19c28581e8c9252783448d8277f701ff97d6&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
-https://mursor.ottiptv.cc/mg/641886683.m3u8?userid=8279722281&sign=7c27c433017b4521136c21f0d17c65a5342355b436ec5d4c2cc34fa58a3827e7773a4cae14137bf53c3d7e38c068f36927e3a61cfc47ef235717ae233b59c4c36704fd033858d3f806af3ddcbc2ef22aa0&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/641886683.m3u8?userid=6356119344&sign=3a6b5e15ac7b8a7a515645ed7f4885fca08460763f7de14ed9514426715414579c6656a67ead9c8f510ed138e53da6874ba4d81daf26f507ffd1c45ee309ae54b607bd9ecbd020aa0c3fa0995dd459ee0f&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
 https://m3u8.iepose.cn/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV5+
-https://mursor.ottiptv.cc/mg/641886773.m3u8?userid=8279722281&sign=70d8281c83fe083ee7c1a648359cf9c7c4c7120e80b4d0ae9df689033ed5fef25ab6084f549e5bb6e0971ba3520eb53a3447bc623f2d65dc8b523e7899aeb087ae944b2c15bd8cb8f0573b6c4fb0f5cd2b&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/641886773.m3u8?userid=6356119344&sign=ed6b966fc65f9ef26d00519a65533c9cca5f44d89bea5d1909c340d221b10cbc4f37772ee78492da3332bb6dbaabc7f762079eb950d14ef4e5535d7d00ad61dbc97b38e822dbfc2099dcb42d7e66af680a&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV5+
 https://m3u8.iepose.cn/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV5+
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
-https://mursor.ottiptv.cc/mcp/cctv6.m3u8?userid=7576776924&sign=187c18595efafdd01d57156ac5a9efbe464f3193fb9c1a31470688136cfe7648e35900e6ec5a6b9331f5ba6c89f2055dcbb7007873b38dd9eec516b18b19cc419199065b02c6b48ff9c63cbe79&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv6.m3u8?userid=7576776924&sign=d6377b39d735cdd287b7bc3b4bbf5676bc71475a208a492a92d2c8436e6d4e844099a0534a22fcb298fe2582d57b54bffdfaa2a03bcf202e16e7de2c3ec1c55bce0fe4cd7f042b93756b73b46b&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
-https://mursor.ottiptv.cc/mcp/cctv6av3asfhd.m3u8?userid=7576776924&sign=3a4692673d92af38112c4d7825284bdf081c0caadb52644e6766ddae33a42e7134aaa36f6df0e3b72e3ff41a229d2b5c53cb653934188fd09e557ef1b7ace825e36d5f34b0b7fc675a888b88e3d10181c47d762745&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv6av3asfhd.m3u8?userid=7576776924&sign=853342e2ca55c8a03ea7a8159122cac05281f8a3897cab5bd21154dd9c274ec2d1a16329b3959ca728e710c683c64f8454205994fb4ce8801e06274b7f263f07144b217ee7343338fe9b449ccd6674aa1d25b2b934&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
-https://mursor.ottiptv.cc/mg/624878396.m3u8?userid=8279722281&sign=e711a628dd8a7c45dd1123154fb7848f5116256960b4cbbe7d1e466320deaf3a17d9e2d64877cd09edd7a8fc3c412b59ffdde718e780140ff7ef5fa1e35e401c5fa6626c842076a38163e2d7f0e7c5f332&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/624878396.m3u8?userid=6356119344&sign=582d11ae372f7017dee7fa7856fb6c535232b225c04411705263172cf43a37476aa743313c1dc9fe615d2adf351a011c3b9108d58a02f29bc8cbc5af7de478d9a53e539bf2b5e1eb13f7acbd546613d195&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
 https://m3u8.iepose.cn/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
-https://mursor.ottiptv.cc/mcp/cctv7.m3u8?userid=7576776924&sign=62e15e9b5bbb32524544643c6ab2c6d96dfebf0def55557949e0fbda53d3d400692a51800ad0104d8561b6696b6473f2a89283af69e39f61c457b81cae8d16c0fe08a950b4544035e06e1fc509&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv7.m3u8?userid=7576776924&sign=7176a9ed76abe1e6b061641df3294cf7a4d7a7d7e580ac49e5c09ef72078872118af19481d510a715a5edb71d592cf15c17f892b6d019ddd32bd1b85f8805d25a344c28e48ce9802c66316b53e&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
-https://mursor.ottiptv.cc/mcp/cctv7av3asfhd.m3u8?userid=7576776924&sign=c9692130173b51bbec2c94355c0506600fd01baa2491a6a9e5eb187890b4487d0190465c78b64b0ac074ead8efe248fffe4bf475aa7dae41b4a74a3a08772ddf9b525794536bb4e960152bb4e3a08202bcc623a43f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv7av3asfhd.m3u8?userid=7576776924&sign=409431ed29a80344d5b20863682e4a18f9d7a35894f637d1f360cd871efabb5430b00e0e566d093151b0d187a4c45967650c8fd0ab0077eefdc47d7f44a25f63a855c05b46014d5c652946709deb23f7a3f7a5cf80&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
-https://mursor.ottiptv.cc/mg/673168121.m3u8?userid=8279722281&sign=4f0b2879633de3f9acd8c41e551c9c20db1e8d40dd4073321db3fb0c92ac3b0104e76a3c8c114c22e5ff38da62867da94e07f729b56584c15d57d536f2d3bac4d8f372f28bb608c816dd4f5f2f2b8a9e6a&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/673168121.m3u8?userid=6356119344&sign=edda0197815766ef4a819e20e8c0816b3e32b5c3daa6fce38eb065892f23e2384b7868281efe93c89dbaff57e05ffa8562a6b2d0d0d6a26a47199e558d4bfea6c96c51a628f66cd5c469810592f242153d&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
 https://m3u8.iepose.cn/cctv7.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
-https://mursor.ottiptv.cc/mcp/cctv8.m3u8?userid=7576776924&sign=bf1e7d54c90c2ccdc30fc0fce80ecd1213a7c1508927f7e52a426f93c889844af5e77bd77b6da58ab6aa9a93d5f13065d48caac9d5f2f1cbf051b7a3eb8ca374c13018418ba5bc290e8f479a05&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv8.m3u8?userid=7576776924&sign=9c9f43268e5d4682386a468e718346ca92c3a5b23415ffd5b2ef88798097f0fd1ff5274535b7443391163b9113046a5ffb1949a6040a4a00cf1ae4a1c5404b60ab30c774be1561ac1aca503aaa&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
-https://mursor.ottiptv.cc/mcp/cctv8av3asfhd.m3u8?userid=7576776924&sign=beeb1cbdc841527e30bdb0cdeac45cab2bfb2e45f78671c35e1bdd35e8a921fffde2f2ae6772f6fc14b452ee023cb76f0dc3ae5ab6ab6152c2460d2fc9f127b179ae6d0ad50825988db81251470f5f88fd3be12ea8&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv8av3asfhd.m3u8?userid=7576776924&sign=8a5df44aa5e951ae7cdf4a184a0ce8ba8e1ac2f9808e354eeb18fcd5071c0c8562f82c385e91aca3c9db180f0e9098bcdfff515db9d244e8d5b2df7bbd351b5e490d2c0c5a3f0b2a8d7bf97afd8678890ab7b246ce&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
-https://mursor.ottiptv.cc/mg/624878356.m3u8?userid=8279722281&sign=2d9f1e7ff23f0ff747ba8b6d2fc472d12da338956a3f8fd06e9e4211cb9b380de14635ab037a13c3cecff18bada9e66847b58995e4fd0af30b69ab044b5971f175bf737d9a5ac5c89cfd8003d6737822b4&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/624878356.m3u8?userid=6356119344&sign=831dfc9161e57391c0d0018e1c1c4628ddfc9e3bf37585c70b811d0bd717e3ae4c902f3f20241c408ebe0e38bfbb4b6d71a282ab266fcc885e0c19f4eafd0ccd2832eeec991c016b3cabe57f607e92cc02&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
 https://m3u8.iepose.cn/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
-https://mursor.ottiptv.cc/mcp/cctv9.m3u8?userid=7576776924&sign=75b8fdff7552fbeb9bb8f956d62fa3d3f615e20a59118a4a973a10d893a24b6bfbbb18d73dbfdb0f975ed52c0223350f84f664e8b3563a7e2fc1785a679eaf49c0da0165782a7d4b4e1265c0e7&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv9.m3u8?userid=7576776924&sign=976d6047887ed4d9379c7ff3cb2d7ef49ec5cfb0a447db04d8335cd93d6c78647fd5d5cb25e277a50de8cd1b0f1759f198bb07ec1562171dead6d3165b787583f287b6f69487c2b11114520112&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
-https://mursor.ottiptv.cc/mcp/cctv9av3asfhd.m3u8?userid=7576776924&sign=6f490e0fc75c19675640eb44b4191ebba4abf93ca0d2f0724ca5881187c18e214b1ad65575793df034cf4ba8dfc3c5258b04ae532f3fd374cf7f6ad6ae6da14fef1e528f276a375c980e5626d6792c300a4b2c3339&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv9av3asfhd.m3u8?userid=7576776924&sign=53c030a6c6ba64537e650310f69af4a108af0c1be3da27209f62c58beb0f62c7eab2060a3d583405242b0d8c63727f6bb092e300fcf4f01de7a4cdf92f552357fbaf47ccfcf94d69e601a1c1aa0415d05bcae86175&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
-https://mursor.ottiptv.cc/mg/673168140.m3u8?userid=8279722281&sign=b6f906b9326142d1f57fb6936b5128673eeb10a9d5bf15fd27e117096742fc317dae620fca51c2750b482a07214bbe8e29e9c3b2dd065da1ceda72c3eb6a90763a5c82c48a4c292e0084f14c48da028773&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/673168140.m3u8?userid=6356119344&sign=527509beac046f927060337d0c7e9fe04ec050fed716910f33f308e643ac77fd128eb9e67db923e2eef07f73bab89ded320bcf272cd9f6dab7ee63824037debcc481a37379659fba6bfab2a2372318179a&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
 https://m3u8.iepose.cn/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
-https://mursor.ottiptv.cc/mcp/cctv10.m3u8?userid=7576776924&sign=7accfa22661de8ed77581aba0e81977618241d7f942f0f927fa77e8c5bdf5cb83544ec615e91ae55cf993e445a2dbdee97ce22be685a94953a0e1f60ef270db140ff4a70cf54d57714bb173ec03e&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv10.m3u8?userid=7576776924&sign=81beaa7ac12e5de57cd4998201b385476650a2d35dbf9ec3766cb80788c5cc41db35fb3ed8ea9cab751faecde0f3b42634be40b0c6ac0f639102dc1e4f1f4191262b199da2a03a82596f2b7b3280&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
-https://mursor.ottiptv.cc/mcp/cctv10av3asfhd.m3u8?userid=7576776924&sign=103835e3130e358ab7fb9e6ed51d642f5b0ab623c7ede4de1c7bd70effe6ae7f28980ad08eb9671e397fd284fcfb9dca99e50fdcdb2d68669e61b1023fba8f3ba9b3efc8cc000e82bef12beea35c89dc84166d7ee33c&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv10av3asfhd.m3u8?userid=7576776924&sign=86429d78b1891676d1d545c51a3e5f7e99bfe844ce20ef67113c6739d3cb24a17a8066d42a9fab24c90ff1c27dc2421f07e30664d3d8941da7ecfa9fca8f04a0b17e5db1dfe837891c1933224519a3581aaee3b05945&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
-https://mursor.ottiptv.cc/mg/624878405.m3u8?userid=8279722281&sign=2c97d0ea781212fc13bfdbccac07cb3aff38ea74d8ce66f5cc37f1137d00d02f6e5da4d55b0f71dfd0baa2f343e3302a6954543788946a0766859a7f095eb865a125ba3a9152aa0a666675d178dc3b9b11&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/624878405.m3u8?userid=6356119344&sign=f9edde6e4b85b7389f580bad902ad077d8be6a65d6cbca4941606b17666b13d905eb735eb93124240597ec0530d99827a2601238a42305132decc1d9aad398c1fcd44f8b25c7d1866ed2e7a28d9d817794&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
 https://m3u8.iepose.cn/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
-https://mursor.ottiptv.cc/mcp/cctv11.m3u8?userid=7576776924&sign=9fbc896797a452bbdb3a23e2fa48ed1e6f182ffb9f349fe081b5db8344964c9cdfdde55331447aca71dd627e460c8e0df5f765357e23f2a5a9b9f0c17064aa7dd0678d0ff424043ffef59acf0d0d&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv11.m3u8?userid=7576776924&sign=d41c39d84f8f1cd58bb1c608c9302246fa0b29fa40fe416a0c70c7810222c2c4ac2ee7088d798b363c091dab993a4b240d77738302708fafc0c4167a5f3518d35610ecd4f53f375388cca49653ab&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
-https://mursor.ottiptv.cc/mcp/cctv11av3asfhd.m3u8?userid=7576776924&sign=e3a9455f04d5daf4f71e3fc29d6503a073e9c35eada34ac40b9230bb2f1fdd8fae984db93850481d315b3903d948bbf50cca527dc91002e95be4db403e4039e3d6f5b6f910a98230a04c8f2a5778d43dee55b4d98b81&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv11av3asfhd.m3u8?userid=7576776924&sign=24837f1db44ff183da2bfcd4adde8cc2c89137d0f2ccbaaa2ae7174a9c99d89f02deb751c3a4089e8468e2099b53070106ca7363e6f529de0099334857d6adff51e23fedbe2737c5444073e241c30cb8787b7b5d546a&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
-https://mursor.ottiptv.cc/mg/667987558.m3u8?userid=8279722281&sign=a08980301ed01d226b544601ed2b1c16d539a501a898a4e610f8c5966e600eb00907a067945d9ce2b8972f0eb741e0291b1978cbd85307c6bca0258a271cc6b5aa71755e5a0350fb85c516a0ffbc3b0b20&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/667987558.m3u8?userid=6356119344&sign=a84959d67615846cac90fe7677c1e296652f01e053ca06f083706ce69a789c1c1a66fe91a214e438de6a2fb6cf62508a3dabab002ecffe7468b75d235f366bbc9735a8daa2996aa4bb7168abf0534d115d&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
 https://m3u8.iepose.cn/cctv11.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
-https://mursor.ottiptv.cc/mcp/cctv12.m3u8?userid=7576776924&sign=0abb601f7bb0749ad60d2e37ef2a6449f8ab7391a2fd584da9b7238ea845712b1be88ba1b5b5c5c8f17119e0c1664cab44b49721cb794edbe73e4781439634ea9ca176a62c6060b5cf5a45163a51&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv12.m3u8?userid=7576776924&sign=f2ca63905b444a5667f0d8aa2b5875a9e7acc4c464f03df7d0ecfe1a677b4085848a4587dda7d1501c3e1cc633b2fcc6c253623407443dc953bc1e927ba900b2b0c758232e40f61cacad3b14a9eb&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
-https://mursor.ottiptv.cc/mcp/cctv12av3asfhd.m3u8?userid=7576776924&sign=90817ce09a12e0a633ffe730df24863a60f7ae3d02617c60b49579610470243471d879283c30b310d6f2c4d9b0d61a20689204ffac24cec810863976f14147b7c85c20ecbed3b6758b34ef5227aa3096f4b3f8895bcd&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv12av3asfhd.m3u8?userid=7576776924&sign=b4388dbc016fbc6c906d6a682f432a1000f28d730c984f1f35c099c2889c10a62d5c9d13ce1347ae3a7e03f01af4440bdb97adc57c6634d355a1dd1f0b711e5c9a7b095a408bccb105115c4db29c4281e5361ecd42e6&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
-https://mursor.ottiptv.cc/mg/673168185.m3u8?userid=8279722281&sign=ae4f9be169c37c0b6099461275c86a38438f9a96193ee2b97db0a237e00e05c29045e85843e170b082e8a911e3d974aa2bf27be6f015edd1202ce0e0f26db91d61727fe7c681ddcd16f4ba69fa7969add0&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/673168185.m3u8?userid=6356119344&sign=b105643acf7d52c0f4d485ca10a432fb467823b2f44d145f82ffe4a5393acb27b7a7e3c8572fe6b7a4442999bc9628ba2f7c84334f4f9b6e8484de37f7d8b40d4392cc8d913ad44dffe614b139bebca6bc&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
 https://m3u8.iepose.cn/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV13
-https://mursor.ottiptv.cc/mcp/cctv13.m3u8?userid=7576776924&sign=39cf6d376945b4a014eb181add5dc8f6dad896c93d624294bce152e6975d6396db41e6484e153be8ff57eed88455d5b3a23905c62e12fa44459fd0ac7c543df75d06643e36d3450a442834183e0d&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv13.m3u8?userid=7576776924&sign=e952fe761d339f878109cd534b8e0c6fea52983f6c3b81ef86b33fe0e89f6cf22213c5675c26498a03bcebe152051d989d9a17b0bd79569a64212eca2295a7c917495eca871bd4a55483a8bc3b44&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV13
-https://mursor.ottiptv.cc/mcp/cctv13av3asfhd.m3u8?userid=7576776924&sign=6c37f1c3f1bcd3d5e776d108e3d876f6cb391e7371fc3209a41d2b7a65f55ed9b0c8ad87a3b35b3c863db3382eadf0e7fbd7aa20208f8d4bc5eb645f341dfe69746ea44e09b0e994836c74f98703164df01dace6f775&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv13av3asfhd.m3u8?userid=7576776924&sign=350980534f06984492868fe3c9920c9f01606b19ce7b75c936cefb16418f030853e87c29e0f70c6aa58eacd4ad13013d1e8f6047a0dbfeecf8391aeeeeeeb9bd3f020eea3058475c19c7dbca344627adc29322cf3929&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV13
-https://mursor.ottiptv.cc/mg/608807423.m3u8?userid=8279722281&sign=65469aeaac740343cd90b8b81283cf6e147ce4226e2422fde022dab691232ad43f2ccb1b5b411b2aae2569da5f94552f55f3bbf4f8cdff562b6a48c4d0458162cd73ab6b587d23f32fcb54d2e080c53b9b&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/608807423.m3u8?userid=6356119344&sign=75558b0d3b6674034728bdb528618bcbbd93db17feaa32d97061033eaaf8f076ce2c6c91b55e01126f9ccae0e70887d39a45722df875d45fd20eccbe886a842f7425220920276ed5f6bcd882fa0a9a6e52&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV13
 https://m3u8.iepose.cn/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV13
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
-https://mursor.ottiptv.cc/mcp/cctv14.m3u8?userid=7576776924&sign=d1538a1b4495f2b5d4fb02a810bb86b788c5d0fb2b9672280d58571f4b9bfea34194da6ff70ebcbf3ff23fbe65726d32d364fb5bb606df4e325b4ba6db4f2cdd3ff877ac551d06deaad73825e335&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv14.m3u8?userid=7576776924&sign=d42b5dd300a1a9db9d50a6386c48f6d4cbe5745de05a31f2a8c090136973db810f1ceea372973ba409db737b4bfb09a0eb36349f4ce3b917e1008d1c0377e572f26ba647e1923bc07ca6460e4dd0&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
-https://mursor.ottiptv.cc/mcp/cctv14av3asfhd.m3u8?userid=7576776924&sign=b2da2248e8ed92ddfa87a4e55d79465789f6c98484be4529372f537f3a8f492c3bf21369179e84c484b377a5132f27aeb080dcaf8cd6c4337f9e9f41635727f38edab5eb2da7204358b1417af90adfcab225bacbd7c5&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv14av3asfhd.m3u8?userid=7576776924&sign=c9649ee31220c5e8d70b0b0c4cdd1be7225602ebbc64d9580d7f0ddab9d255629b1fce891af08692e1d0eb102ca06f85ab199ad949ed268be3b963851a36ec15675bdfcc7679b22b1d79a93f11da4d6340c24ed488b0&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
-https://mursor.ottiptv.cc/mg/624878440.m3u8?userid=8279722281&sign=9bc0a06e9c64d2f99adf51736833a00d706365f8bc4decb1e564d463469b414c1f391e7ae2847f703569a3c091f6ed3b31b207b6108f3a982b552bd5ab011c33f54b285c7b38286ddc1336cd6a977944cb&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/624878440.m3u8?userid=6356119344&sign=432476c537706937347e5fc3d57adab2b4bf2551bc2697a4243c313ae3d2946e05f2f0ba0305588d56bf653f0d8bf9052b5d076bfefd6d1b0fee2d48f42f39e1f37fa843d3ef0b6213dd29c23c4ab7a7ca&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
 https://m3u8.iepose.cn/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
-https://mursor.ottiptv.cc/mcp/cctv15.m3u8?userid=7576776924&sign=c2901b1503c9aa0d39e5646e64df2d94761e09a940c1c8f2383b81ab8d29ac1fb0b712a4d4d0ba8d80f8ef946a69f6060a21fb3393f2c21f40bdaabda33e507f24ac883a6f0d2752053c06cec93f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv15.m3u8?userid=7576776924&sign=07c34c0fcc0d8b2ca6cb7d735bb3021853041013d5edb7b495c795170d38386ed66d62fc1154df5a7cd961b0f395794d719f2907b10abe2017f46d92400b0bae67bee9757028e2c6446e3d4493fa&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
-https://mursor.ottiptv.cc/mcp/cctv15av3asfhd.m3u8?userid=7576776924&sign=c364c0034c4bea33233b3b439f7c09166fa9932f277593ac89a11e74b3b4ec2ef590e4aa408ba6e967ca4d08f8443df09cb4fe8dc224356e00ad7768386cff6b6bdb62e6a68f78c635203f5f453c31340008bc589327&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv15av3asfhd.m3u8?userid=7576776924&sign=63de431b71824190d175c052142dcb486ddb00a13592721fdf97a26ce81387b846b1ed48733cf4c60c0daf5fd5d950fecfc009989fa1846c180b2323c421348cd2d1d85e194cb3e82bb164321b5fb1051196a8d5c2f9&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
-https://mursor.ottiptv.cc/mg/673168223.m3u8?userid=8279722281&sign=3bbd82ebd6bbf9935a155233eefb57ee08e68d15108af763713e6279e5560cba5ef4978bd61b64d16cacedafadd346082f11d4229046300f9ad615b65c7044db7f2486da9dabf39b19453b91becf1f9494&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/673168223.m3u8?userid=6356119344&sign=9c88cbdf49af7b3a3a49429f64e006d2fd8ebe17d56d4bb1afc0ad34c4575b4da92ed063d72eca17bd224215ea3b68168f69c14a904235dc8518cc7ef17229599c3cbb3a8abf1952db2cc97afbe8d3b6ca&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
 https://m3u8.iepose.cn/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
-https://mursor.ottiptv.cc/mcp/cctv16.m3u8?userid=7576776924&sign=ac4fcede56222953557725d7722810cb10206a1176d9910e8c589d270de3a5ed5ea56a699cd26fe92606860881cd5a44530659898b7fe28e9372557201c31822082ab9e6ad85fe41666c299929c2&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv16.m3u8?userid=7576776924&sign=a37bc9aa30d11898aa3a4ef5e2183f1382a3386bd337656c60c61246afb5e4c636d73a6fa785205b2c3a4a2765549df6959e1a00e3c9c3797381661be0733885bdc459f7195fc3f8615dab298112&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
-https://mursor.ottiptv.cc/mcp/cctv164k.m3u8?userid=7576776924&sign=9a44da988a0e5ab41cbfb270272316ad7e4e4b7b6d674bfae26a84b46f4937c83509fdbef922f1e131a7d797571b02d6a5e56547e86d441a1592cef6481b2fc5875b609f661782869da946653d4861a7&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv164k.m3u8?userid=7576776924&sign=be3838135ba743a096382f32b7fd23356b1d11cd9917ef27e8db2b6f2ebb3cc26e1b75a447d474351b8a7decf02f99a61592e8e06e9a62a3273d03053517af6754042bce4fbbc05bee68922beb1e8f08&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
-https://mursor.ottiptv.cc/mcp/cctv16av3asfhd.m3u8?userid=7576776924&sign=fa6ad7b868d8c4a98703af4ac801cbf831c0e647363bd1b7ff792b8d4d93fac0178573116a188fcd5451a78af38c94a5ee7bfd2b11ce8f38f0ec8d8a1ddb0c9da3a7829c3e0e552c187674725ca31243992b18dbe734&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv16av3asfhd.m3u8?userid=7576776924&sign=b2333148fd9c8800245f592a0924532ae6d102feaf4b5d055af9b15e4f06c2da9944f1cfe9c230999ac1e5afd6369b8691265506bd8a9817634df38f70a4ec2df8e0f2d57de14c1f2f5fb0820e36deb84d84ddbd1e54&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
-https://mursor.ottiptv.cc/mcp/cctv164kav3ahdr.m3u8?userid=7576776924&sign=db5e26aaa8b8881454d33f08a2530aba5293209e553651b61da1ab8fef66fcaca9988eb3e721b50f05c465d2e0bdacea22f1ab71f462afc53000f361f73a0da0a997ac978c56130fb9238cabe461873aaae93f56e89f67&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv164kav3ahdr.m3u8?userid=7576776924&sign=ca0d52976e0545c85744484769afa13c3e76a3c152079de005140b3a47bd63c904e4be4d50e22868b116e840ecc432b9e0dc61f4db47547cc50138d03f3b664b08350402e6a0000fbbae9fec7156312733a8d92afe5fd8&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
 https://m3u8.iepose.cn/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
-https://mursor.ottiptv.cc/mcp/cctv17.m3u8?userid=7576776924&sign=93e88e477c03f4647f72347f12c5f0baf409a3ad1dd15eb447c1c6974f915608e7777fcef040398d9b9666e342543e7530c5052077418b3c851a9ea181caada85d4f195c42bb082d96b832a9bd69&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv17.m3u8?userid=7576776924&sign=1fe904a4e907218c42cf13285c2e17a78c9fd74fba9a43f681d32f1816fcf7012fcf496b5b7edbe4938e160cb0a735b3dc9c8400552c1f259d62964c4ff774d1df91ca19675d64e2199c3eb71396&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
-https://mursor.ottiptv.cc/mcp/cctv17av3asfhd.m3u8?userid=7576776924&sign=0fbd40cbc833a9c12f03662b79a509394f43b04aa1db952884212937d8d49318ffcdec4367b5fe62721d0336ad217d063ec0a4a9976f61d8be3ab48832eb357b8a16bb9019c41c8a760a4aca9aefc3ddb5355d2083bf&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv17av3asfhd.m3u8?userid=7576776924&sign=743f9fd1352ab5fc62d51fc0d4c666cd244e2d5658cf3351f3733d94b42e9fc8459d66de42164fba866facc8b4c6239667d67d6df8a485952b470d7c5712bef44c27309af7cc33834ce57393a35680ce8e6eed884a03&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
-https://mursor.ottiptv.cc/mg/673168256.m3u8?userid=8279722281&sign=8b03f16763a172b5a85f4f0caed1840aba492fd0644c65b8923f59b7b820b5308b4d1ef490c54f514de2378736ae60818ef261dac51f8fec1904d3f2d216ce3fa4aefb61bdcf73a3b1cca3390e2bf4c131&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/673168256.m3u8?userid=6356119344&sign=142ddb4de790fd75b292ccbf923f5191de7c9937dc5db262e91be86d3cde6100421a12d3a5b2cb8fb4c635c20a96758ffd93956be166d26514fa314bad4da98aafb0fb7401e2721d1871d62819f37bc828&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
 https://m3u8.iepose.cn/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
-https://mursor.ottiptv.cc/mg/608807416.m3u8?userid=8279722281&sign=1a11cf1d1960f288b8170b6a4fec34d275ec7242963d5a259a73da0be348256a1c12b9778d929f217ee59e0743dfba8d7959c099f9780246b7ec548ddeb3955271d1deae7ccde760548f6920e24adfdf42&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/608807416.m3u8?userid=6356119344&sign=54a39a4dae52d1ad4d2d4204ac53d0fc47757024b56ae7ac16ef1beee1fc6cf72a58655153c099f9c4365c9286e50134f54b4b3ffb4ba8398785c9660c972584284267953e0eec3cbe5145e2e1a9030635&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
-https://mursor.ottiptv.cc/mg/608807419.m3u8?userid=8279722281&sign=050783bf57a73b64ae90c478790d7cc29013e6e6c5699061beb06736da961c9cc6fd8d40fb9fc6263c709b016320c6e70d36fa4ffa24d5f4583321a5a02a6bb150e1fcd1552a8a44ed31d7dca1d47eb2a5&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/608807419.m3u8?userid=6356119344&sign=ff8932c6260f1d8fb36c03e5178727a717f72d3e184aa666ac525753ba0a819cbf5c7d28d2942a6b4ef22990b9eafe10dcf5f59ed07b610548b74624d91ecaacfc2f581c2d415c9a3c47c759cde4e07957&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="央视频道",CCTV8K
-https://mursor.ottiptv.cc/mcp/cctv8k.m3u8?userid=7576776924&sign=ab30bcd6144cc9dc30f8fcf91a28718d1cdf0f032b9d62ef486f2ff81b70c8e6e6968e1f69ce36b4c2ac2a8b7dd0c522ebca98023b604db307a6619227fe3dc0726f320e593ed12bd35b70220490&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv8k.m3u8?userid=7576776924&sign=9ed1444e897371f38311c919de27ba6601c202d97095352b466194a77888d9d7c7abc75f91e030d31a06c55fd3366ee4ffd591b6f9f2c940cdb7a2cf629fb297b93ff5fbe8411dd2389df2d03d94&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="央视频道",CCTV8K
-https://mursor.ottiptv.cc/mcp/cctv8kav3ahdr.m3u8?userid=7576776924&sign=74cb04698c26def8878423d8969c67e2461b5bb07dc1a29b5edba9f7e7baafd27d50ee36201e7208b483bf70c11aed9f67571149aa216e9122502f37aee29b6cf06cc0f4afc392d20e7105a0affed1149b33bacbf7&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cctv8kav3ahdr.m3u8?userid=7576776924&sign=a3c6fe8c59c8bca5fded242fee4b87c9dcb44771d731a2a1e35abc0b3fcd29e8368e85f4395e339de4a6ac98cbcb8d631f933590b9741b83da7e11b9b60555dcdc811a50c83759aaec6c9c69b61c9ffd2e18b1b59e&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视频道",第一剧场
-https://mursor.ottiptv.cc/mcp/dyjc.m3u8?userid=7576776924&sign=7e698028b56a4ae79efb3f8cfe34c7c581b7a8645faf288837355289139204f015e1e1ca66bbf42c39add92cca2742185a04b7ea7a776c148ddc0fe40a912a811df1488b734c45d287e9061f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/dyjc.m3u8?userid=7576776924&sign=8f463386c9acc7732c0d52b9aafb82ff115b55b0d1ef13448642f841622f4c587225b545b31848bbcbb0abe2efd3b1aedb46ee6c0b2b78a85b5912a98df9a13b691492498396316b26298147&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视频道",第一剧场
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctvdyjc
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png" group-title="央视频道",风云剧场
-https://mursor.ottiptv.cc/mcp/fyjc.m3u8?userid=7576776924&sign=ecd025007fd46c87d7c8a76c521b26329c982959d18976a995c8a9d22cd006991c02962077dd831226e7f94f83c70d3b6af6178ed0c9b72e0637f793b3ec7dc985da998c0e08cbd82f3dc4eb&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/fyjc.m3u8?userid=7576776924&sign=db183fe3f52f70b8bdb1b99264cdba70ddbfe5767d43d5cdda2b5164ee8521ada4cd230c9eba4a79a12664aa6185b20770cb05bd1eb63ddc1eca1d51a8a9170f6e19cdba68c8050833008a85&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png" group-title="央视频道",风云剧场
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctvfyjc
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央视频道",怀旧剧场
-https://mursor.ottiptv.cc/mcp/hjjc.m3u8?userid=7576776924&sign=af39ed1a7ff540358d0edf52f2cb2779d1ee45d915a5479b9292331b8da5bd31b47a3694241304bb331c160900b2204ee973c086f1992966f7c3a067fc26582482dc68b90af153bbb01aa383&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/hjjc.m3u8?userid=7576776924&sign=f29231481b2f0c66bf1b9e3548b444e8051f7f3e549f647b5d96507dd17ef424533c4bfcb4a08528eaa31e49fd480ba13f3574b6541ed213105aab05d31e7bc9cc584c2eb5b440e7893b5c15&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央视频道",怀旧剧场
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctvhjjc
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnar.m3u8?userid=7576776924&sign=f164c0bd16284e3abcfed3d39912445ce89d2a78993a878feb7d0b0fc29705860d2919891d8c6ad5d4406b113588113ae7b2d85ba83e3601bea6e248fcfd2bb5d89e08824b4208d4da916052fd47&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnar.m3u8?userid=7576776924&sign=6f2d531794f45343acdc84aaa604c6a5287aa034f867bb46f747f23b1b819770881439b58975f6a5f2e500a1d0ba424dee6b40464c70c0268e8470f783c5a6b383ab622f52e523f0ca91901cd30d&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNDOC.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8?userid=7576776924&sign=3873177f45b09d74be49e3553f8328d6331f25a5c2f883c0f31f5bd978cbc7c78a52b0fcf2480e947a732afd5dbe6f201f468a12a2d1eb8f4bf592d393167e82a3ee8d40050a7da3ee29aa669ce38f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8?userid=7576776924&sign=08c72f46d5645ba4808c0ee85dbf4616f2a6f36f6f85b004caa964f54acf0f1b3f6c7aab28c90ed563a84ed1774b64b8043e2dbfa99a568d55ebb750116cb021f781ae02d808587f09283da7776291&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtn.m3u8?userid=7576776924&sign=a69274e265ffee6eb27666ae16252252f395a1f0d0fb86b489ba792266a62e656b732afa9f361f8080eac8c019578864867969557cebe9b26f0936ddeab4f574e9c117a2c371185cd48921d4&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtn.m3u8?userid=7576776924&sign=21674973fc76f1e7b4bffeeb456276f90a21804b5750cccfc472c3989183bf05b504725e5feb5641533a21a95ca3380b2070de3a4c6592cde62513824e881b326c2981c14eea6dcae86c7df2&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnfr.m3u8?userid=7576776924&sign=313251611c3be1698f53a38bf892571ca60e7ac620c7c79926a29ebfc19ff68d2eb8a657d1446fa85eaa8488ddda85db2765ee5d37ae47b17276ed0ce39c1b38a3b6643885ca64b8c654fd302499&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnfr.m3u8?userid=7576776924&sign=808c8fb0d074beb4fe1b750c8d26cfd599a053f02b648e1df9af06950bccd3904682ca6fa7c96bdb4bf236d127e6a4bc14e3b82d5c3a8243f53e44cbb97346c9266f677461d08991e6f7b4bbca84&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnru.m3u8?userid=7576776924&sign=1763cea80ba3e86a2eaace6f31a5044e4e9fe53aca21cbc0235f1df2ecfb4234e2efb412ef94d9854fb31c31af248e5288b3ce0f935f3d2005df8fecee50c05d29518c44e7e57eb680cff8b2a39d&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnru.m3u8?userid=7576776924&sign=f5aafacc46e6dc6ced2eae7a4e3bcc6cbff49c35914bb0120206152336ab6592a1260449f45c642dd32687752d022212221a3e2f11f7a4e24578eb3556953349d1aaf0645f50e621987582e91067&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8?userid=7576776924&sign=bc180e4e9b96925685203de591522711d56d52b7f41dcdc9a94a99ff1444a77b0c865c00a22c66688237a81b39424ced35089637bab11bc7759369314045ec8b6ff953f24dd9a50be46e13cd344f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8?userid=7576776924&sign=9adcaae2a2bc2d9359574eb0042a90ff984a90fc017be94daedd2308b2ebcc5687f20dcf43ff0bdfb8b6775b5737ff343eec6df03e16203cd4f0e20bc7f10a59f7eef5478dc1fab00b4b50546200&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnav3asfhd.m3u8?userid=7576776924&sign=b4b39e845c0b28db3e415f0fcbc3004ead7418e33f923e18ab810c9dd98e433d4e27e8f273c56e80404b1415051e0de793b9b1f60c2c4b886bfaae5b47d94796dbb16ed5efdd6631755cc98922e4a55f0407b5ae&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnav3asfhd.m3u8?userid=7576776924&sign=219fb9a56519d1ecbb88ac348f2b17e9a80357382abbd658588505165c7fe8da45db492e53ba634f317a53011a93d851049374013c58469b04f27bec71986fccfcbd9175bdb0705db4bb2079fe753ab4a6ebe0ce&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNDOCUMENTARY.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtndocav3asfhd.m3u8?userid=7576776924&sign=264e6abec5cb55be761c03daeb0e1cefe4c42fa62964feae48c4a9d5a67d4934a358b1c170a90a92f998075df9019743b8e83992a161ca7bb4925b8e35a056a090daff09ddde5b56cd3fc92d0525fdf605c138aa43e313&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtndocav3asfhd.m3u8?userid=7576776924&sign=7ba209612064973c088e51057279ec0465e66254c8eb5ed5440a73116f49f26210b31b2d66141481757cec5f377e2e292088aba20b1672e44cf7f18d9c88f0333dcf45e0bf886a292435750300f9565e01984454d6d50e&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnruav3asfhd.m3u8?userid=7576776924&sign=62fecb7ea177194ef1dd36fb2895fb4e4ee3d0b39be5bfe7837a79e90af4aca11e9398bfdc0c106e4f0ef57e2e175b439c8a74186591fb973c33b93fc4a7a73d1309302a165cf45e7655e60fc63dc1f8de81c01a511e&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnruav3asfhd.m3u8?userid=7576776924&sign=b84077d52f4346fb523435ccb06386f7d3e9bb11d6ff87077677043c4186e9c75d920bf0c1542549bbb85cf3a6857cc8fa2d8a94801b81bcf2175b01a30488e41c8ccff71d57a2bedc54e8de745ef9611e852fa1ed5b&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnfrav3asfhd.m3u8?userid=7576776924&sign=3e81ab49e77be777e052d2fe7862de102c420d32639b76d913212859eee4c6d037e20bcaad17d92af73677e73fc88becb03c0e97871ade6e62eabd1bc793dc48e4c34450b739c65cf71527379ae9e515ff5ee75c18b8&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnfrav3asfhd.m3u8?userid=7576776924&sign=db618bcb03caf606bdad400e764238b2cb25caa977816dfe3ef79ece175935c1134d839d5e1fc23b6f2dc4f86b2ad5bdd1914bc497a9086e217a42979acdd40976de36304b73cdab0ddf85505788ae615f9fd39a6bcc&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnspav3asfhd.m3u8?userid=7576776924&sign=d5825dbfac5cd636dc5ea7b63b5a7eb52aca70addf732b513010dd19d400116a6fc959a137879ac64031f98317d375b95d65f82f07a9f21679c8128a8fdc2790e013369a59ffe7a0add0f1595dd3ae377e18f94066ee&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnspav3asfhd.m3u8?userid=7576776924&sign=cae906680b8533ac745fa63ce746173632ddfc5c762877af2a9f8b65de9d351a0e62d7698551616ea58abe5e4c640ffbf54b2b4b004bec81d99cfa4d040ec77e33604ead439e8958338cb44b8ab34a6ef7020fd2ef2b&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mcp/cgtnarav3asfhd.m3u8?userid=7576776924&sign=dcf8f7f3e60cd8c79908d46159f772579ac712fcfc06b2a9e0aa319865c0db3930113d44c0d626a9a36ae6626dc6b4d5fd2ff2c27f7524490f3a872239e7973c23096763d69c7132c6d84f3a15551dbe7a57cc47596a&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/cgtnarav3asfhd.m3u8?userid=7576776924&sign=c8e4e2259dc7b127712d26577b1cea0d5ff5fc8fc908d5543dd25f17c74213b0462ee4e784dd8a928163417f13e5a0f924012c5aa2c40a2131a55598c7f72c025a9d2d7bb18bafd4a815a161f295304afaa92d7ab1be&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mg/609006487.m3u8?userid=8279722281&sign=bf6cb3c306cb6bb1081391a7e14276f4f6ee96c4ef75ee34da7eaa289e4a72c16de849ecd1f4a42ca6bc8ab604f841a21c63e53ec8ca3a65303433e670d9d631cca179c55ce9884814329e724d52a6cff7&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/609006487.m3u8?userid=6356119344&sign=3e5a3efeaf954db61deee588e1ac0861e3a22518f93693a4e01a6bf9e1c1bf04f67f7ee4da9e1d99a9185a00063cf388f4ea68a77af41f615a47e37be77094a38b30ede6c8f299c2492fda4e5c2b4590a3&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿拉伯语.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mg/609154345.m3u8?userid=8279722281&sign=1505e427382dadf774c2c8ced7c5c417c54751f2e5c8310123176f9a15432923d4c57df4ff25c1c04482a759ff92c349d1e3da5d0b41de79fdaa24559072bd3a62fd50a36e1063a2c1d6637613821fa1ae&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/609154345.m3u8?userid=6356119344&sign=358c0278f8100e967ed986762ffb7eef6cb0fc277b3c2c23b77e332edd5cb823823a4ec1bccbf9de1adc3b05d9ad43db99d77f8713dedd87805b9038f36addc260483ed9513c29ea4e925581bda3d4eaa9&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mg/609006450.m3u8?userid=8279722281&sign=e6ecede549a4ac5d291fc49a0c9ee76888b3e8ab0ec89a85f713c409fe4e45d5660d90b047b5fb2f0f66b18aa32bdf1662e05b4a3881ba3866e6270f7b250ce306a50b717438589ce9a3d347ec453f5b81&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/609006450.m3u8?userid=6356119344&sign=34932a26f674c4780e4089a2ad3bf55e959a246642539cfa5d6ef062675e8958fb4f3a35ca93b842e12dc455a9ae75ef944bb1661ff51573e0ca680d1522a84b82c84c8e94cfd5e493e3f6dbe731a493d3&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
-https://mursor.ottiptv.cc/mg/609017205.m3u8?userid=8279722281&sign=a921f23f77459fdcc43b25e33cd414cc040cc33147b6201e734e1b35daacd1a4c08b3cc43e3be685884eafef887440038a7ab9ab97cd2cbb1b0991ea51b1e566c96409e8037ab75cf9cd2f8245d26c54e6&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/609017205.m3u8?userid=6356119344&sign=6d208bfbc2b99f66fd4a5348ec05882d8e47ab5f1e12589760ad86c6d1dec445ba8845bdbe6793ecd739899698a4c4a3d36222c25644f1aaf0478e49a5f9a8b29b2bc7defdf4b9ad6e1764caf066cbd665&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cgtn
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿拉伯语.png" group-title="央视频道",CGTN
@@ -250,225 +250,225 @@ http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctvsjdl
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央视频道",兵器科技
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cctvbqkj
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
-https://mursor.ottiptv.cc/mcp/beijing.m3u8?userid=7576776924&sign=27872c3689402ee119a213fdf622a35eb20bf281c4fe3cc925d7e47661b20c89d980202a948ca1db425a769a2b38a8cbdbde0d0704cc9f4bec871d6d4eed02df7352858446462f5bb3dd9d1bee7ae1&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/beijing.m3u8?userid=7576776924&sign=57ab494bc3da1483d751b171e83848e9378010028214795c430d542e8f047e5d88418587f014da11ddc298110f37e58c46d5206dbbe784b166c41684d73ab7dcaad5b94d7f9828672b4a4a32a99cad&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
-https://mursor.ottiptv.cc/mg/630287636.m3u8?userid=8279722281&sign=e1fcaa2087543860ad6619d9e2a941ff96b48453a5dfba107f71ca1af518152ece38809aaa70979ed1f102ebd750a17c0925f019af0342529d7164b1c4109e55556ad1d85d530b660130e178b97c484786&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/630287636.m3u8?userid=6356119344&sign=99ddeac64ba7990bd62aefae15c7d86783d3e5cd48d2fde7c22ff8d9c6e4b7369a62b626bc886acd72f4fdd2d96d302f9ff87053a84007c85bb748c43384083f2d99cf44b0840d3613e515e30c46505bb0&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
 https://m3u8.iepose.cn/bjws.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=bjws
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
-https://mursor.ottiptv.cc/mcp/dongfang.m3u8?userid=7576776924&sign=19453fffa3c48e8e8206d0e5e261a9f4f5b60ed04f3f0a2b09736047ec9c7c67c28747d532c58970809e39d415dd3c6095421875eed02a304a43f8e7478f41e7f91018abfcadce16afebea642b7bfef3&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/dongfang.m3u8?userid=7576776924&sign=2bbdb3643ea6359a064d451282eda6844fc4d2539af128ddda3e6ad329e7e346ec669a119044a345b445d56ca21e8c17d919f3fa2a3b8227ae8da15ec40175487271b5bfd681c08e738ae8af64356cac&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
-https://mursor.ottiptv.cc/mg/651632648.m3u8?userid=8279722281&sign=25e302ca50917574ba4d2bbc117c99a6f7a49724f4611d456b5d8c5a2dd85d5565602680f95e82df6f8ad71058d728544dc6c05061423b26127d7abf9b84d7f474d042559c65ca4c373da3989ffc947eb9&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/651632648.m3u8?userid=6356119344&sign=b9abeb3d25efd2889d032db13415995367f4d745f6df0952030278c818bf597ba95dbfa843e4d209ce2aba571bfd7c6f352d90c18d05212208d6306ccb69a27eb02fd7215901e9d0bf4a49b456aa8bfca1&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
 https://m3u8.iepose.cn/dfws.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=dfws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
-https://mursor.ottiptv.cc/mcp/zhejiang.m3u8?userid=7576776924&sign=a498c8ebd2c4894a03da248c09e0349a8a3add31605a2e4fe3506e0dab9ea45c0afaa8ecff401697fb08d354ec931b717c72b0320adec255b0fe1f40b3fd0d4e9353c1ac6861f5ca326468d60720bf00&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/zhejiang.m3u8?userid=7576776924&sign=1dd21c4cbc0631159fa0c80b1192f92725e0149046dc26fe7b94b53364ced89fc3958608bc849fa01f71b4baa1589ee3ab3ff526a9eefebf295729183d736ed34feacd9302d2b9856c4554f9c3768b35&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
 https://m3u8.iepose.cn/zjws.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=zjws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
-https://mursor.ottiptv.cc/mcp/jiangsu.m3u8?userid=7576776924&sign=4b3ebe7496ff5fd599c5990eb9fbfc339bd2b559a532d4139bedf40cd8496bbb7d53efe47ddcbefc671c389ce5a8b67194eb582620eafc3d315f3e4be25f4b0d9fd8198883e2267024e63492f8ae4f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/jiangsu.m3u8?userid=7576776924&sign=4e157454623ade35e647d787f854ca94176d0e2f7c86c00d68870f5985280a03fd6f889661fbd53092d9fe836d42b7faaa3f32ccfca54b3170042a6bcaf2ecabaf8ba320bb5f80898453757df75ef1&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
-https://mursor.ottiptv.cc/mg/623899368.m3u8?userid=8279722281&sign=2876de38b12f7aa0d38a9df2d8e62b3f96f92841fff9732022f65ccc2c8da111baefaf5adf643d479224b3f7e199041e58be6b0d9b128d8d677f85a7efd79188651d8b30c8b58fd2c2bc7497d3956eb3ae&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/623899368.m3u8?userid=6356119344&sign=5c9d902438858526a2479b7a6bf54b43c21e69883822f4d79305a35ea7a8223587f52b0198eff1a20de7a1bd6eddd5c845c9d56ffa04d1ad05834fc1c6e9c57c7b0d23007fa511fe0465c32e6f401b905f&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://m3u8.iepose.cn/jsws.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=jsws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
-https://mursor.ottiptv.cc/mcp/hunan.m3u8?userid=7576776924&sign=e3d9d37f23308aa108425fdc210fe5a22400de79a119d2359c0f4521a0e203a66b5adb81a3eb34f7139ddee545b67207827d6946aa938eaace743c703333cdc6324634fe678f67c92421cbcc6d&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/hunan.m3u8?userid=7576776924&sign=8b87304b7723bfeb6dba2694796cce23200edee40f20d9131984f9d3c0aca34b51a7ef7295d23e461a4221d8a497e158d41cde58a83bb0027a0036901744084fbef344e2ea1b467f34ab39b13a&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
 https://m3u8.iepose.cn/hnws.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=hnws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
-https://mursor.ottiptv.cc/mcp/anhui.m3u8?userid=7576776924&sign=db0952b5b3ea3d267608e3a019c2e09e0dbfdc1158d577064d36f625e8b6fa04c4c75798704aa7b6eb76dc199f8ea7cfa23a124e44f1e8f4fbb03c6be6869cf498999d06f440ed5dc231e28930&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/anhui.m3u8?userid=7576776924&sign=8d739c9c88083e4e4d39385b5866975f3d6d284e73877a1911e1554262e768816068ecd700d0994f3e1ada1d84c8cd45860e21a2b71dac8c35f0454df5879b991ccbab6864332cb08f263b0d1e&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=ahws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8?userid=7576776924&sign=949497b321ef25903d6b1c1ded548d68a0e215314fb9fba2831988e448b8056a4db59d0052404f40ebc415b659a93972b3f9ef6baace406bc8258ddbd9a7e3748d0bd6dbb414486988de7b4aa3c6cbdd1ffa34b7&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8?userid=7576776924&sign=2d776fd60294423f6e1958830e03d9351999b44c14e0abbfba5f4c460776459aa55b9590e7d5eb6453370d1ee66d2fe01818d9c268307474771a986345a1dde772388858495595a224c766a440ba65283dc7604d&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-https://mursor.ottiptv.cc/mg/738906901.m3u8?userid=8279722281&sign=fe45abaa1aa505e6baa99b7b4a9c3f82f9f04267b834686855bf7d4f7e4770c1a0c58813f71537278293a00f1aff35eae98d80074d4269aca086a22a374c0bb203794d0f3e36e6742b6de20475e527c438&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/738906901.m3u8?userid=6356119344&sign=b2b344191d4416c6fe4093438d57f61347ba30c0b552c4ac5526f8048d9544798e2e55f4287d2d8c4baf64171dd5636e0f424c576afbe418fb9eb8734f5406c1d2d9038f6a89688cac40954f6cf7e1d48b&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 https://m3u8.iepose.cn/hljws.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=hljws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道",贵州卫视
-https://mursor.ottiptv.cc/mcp/guizhou.m3u8?userid=7576776924&sign=cab285ba7d185cefaaa15a8c97415910ef69e719ced8ff5ce6692c0819c0d96047b7681bd71b4465cff5bed30e2fbd5beb3d302d5ebe73ca4d945493e9716c7cf416bbea641fe97f458d6fa0a83c86&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/guizhou.m3u8?userid=7576776924&sign=7607a41bf73126ae522cb852b17446453abd37053872a1b761a64ba1f2142d0247ab08e81ed243ba2645700d03ca4b6cf9b6c63513a679b06d2a973cb18b2d71772f6b12f8d3e68b0b5b72b2955520&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=gzhws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视
-https://mursor.ottiptv.cc/mcp/sichuan.m3u8?userid=7576776924&sign=c190419a5934be7a7cc29653d30d166e2e1cf659c5f950edcaf9e9ab6a349b307647f9543c5168051f037100247c184cb0974d5c675f256a8c66694ad9075cabf592d637d634b896d3050fa5090665&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/sichuan.m3u8?userid=7576776924&sign=e25afb049df4eefa9eec33a83ced42d9324bfd9793776d50d55a5354520ac9442218c6669674a4096b4a358b1d332c5df8a6ca26159b40b046ad03db3637a6d84650d393bd1f229f0b0f0116e3767c&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=scws
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道",重庆卫视
-https://mursor.ottiptv.cc/mcp/chongqing.m3u8?userid=7576776924&sign=711f4214250ae8f9a7a03942a40c44cd95f5b1432d2035c55278d0ead0224a19e002d098a027c882340c9d1269dee7d2269e1e99977362264ac0622b4b37be72a0dbfa0ecd5b3588c3f5216fd3cc7361c8&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/chongqing.m3u8?userid=7576776924&sign=d481a5ac5bb03b91af452b4d27d1051972cdc29827eadd6f07b1e9d4d132d538438eb4bf783c11cc099221a0cfec78d9eaed8774aaa5991c49b9dfa4dfe36aa99a3a8eec8a5ff53456af65c396b71312d4&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道",重庆卫视
-https://mursor.ottiptv.cc/mg/738910914.m3u8?userid=8279722281&sign=41d389bcf83bdaea365355e61a12480e29dbd444288e3d2b09251240e3ff764f0ccd32e5e27babb46d176c9ff9c67a28ef8e8df622e7f1676d99adb781412522ef3801399d95fd0dd2bbdaf2f52fd234bd&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/738910914.m3u8?userid=6356119344&sign=6edefbec286b108f15d0456eb0eff71f541ee2ffa40c651d5d30e414b8f496c40afe27b3d1fba9667da880844270e6b6536b9f586b1492b8cd2e2495d33f961a6764e3bcf2d51db67fb12565b9e2060b0a&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=cqws
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道",东南卫视
-https://mursor.ottiptv.cc/mcp/dongnan.m3u8?userid=7576776924&sign=8343bf51dbcd02ca74aec1159eac7623934edb1f47158f55da92c0b7cf19d28a9d8122cc257e7533a1e5ec253666c8ee1b86bb7f1be07e0be522f07b24c47ab4df8a208cc31a00578fc9e657d41abf&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/dongnan.m3u8?userid=7576776924&sign=793a922705ba9a6b6ddcdafd81f538c456a9719d15fcdb73a6b0c407da4fcb4bfd12c3ab294d4f495ceb9b4598df0531113ec4846d7145a36603ad7adc8be6fd10af8501a02f3157d0ce9c25d07533&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道",东南卫视
-https://mursor.ottiptv.cc/mg/849116810.m3u8?userid=8279722281&sign=be47caf7c6203150466264160feb85b5d15081f4fcc69f84d0490bda8244a98b5c8b6b24670ad1e5d5f9788503036d14bebffc8437a138ba56cfcf4c33b164bf8cc0070d03c4507f2807280ec7e26a189b&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/849116810.m3u8?userid=6356119344&sign=ae0ad486370362465344f980fe16cbd193c44b055f1ec98814e76d00fc4037c2bcb1e7742c720ceddc858f30cc31e6d1cf5f7a683031b7065e1c7ea77ef2d8cecb39b81efb78e0ea2600c78aafa9f87752&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道",东南卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=fjdnhz
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
-https://mursor.ottiptv.cc/mcp/jiangxi.m3u8?userid=7576776924&sign=de75d2d9109d6d2499cc8d1d413225272e5125f0fddcc84c3c7093409974dbba5feec8f0bf56c1c5f933865f1455b5df99833fb7fdd6c54145e9ad579669b0061cc91611b031abd8fe182a87a9ac65&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/jiangxi.m3u8?userid=7576776924&sign=15c87c5505e6578c5dbe2366e96d45ceb1e6a205a625ceb64bda763cf3ba7a8554c7c1b926b1d00e04e07b724b22b7c27a9c113e0a3fba5b2fa94031f99445f24a865a7075225d4dac6e3df9f1995f&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
-https://mursor.ottiptv.cc/mg/783847495.m3u8?userid=8279722281&sign=fa6b21d443edeb9b14b7cd46ee3d43632c14632d62dd7f027715c9fda5cfca95f6acab9198efc6434df26637bb3f48596cb7618469b111991f303ab360295386d27609e55a5e60b1debe9a1fa9b8dfbb2b&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/783847495.m3u8?userid=6356119344&sign=b9de4c0b7a16d556d81f18e6aa6f03255847bb336676b0e914a8850de18ed07abf460e6dcaec8ebcdb677dbe28af1c8cde6b395c5c5d3e49f14664573f95527743c0c038b6a8a93e66aebb6a57defff854&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=jxws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
-https://mursor.ottiptv.cc/mcp/guangdong.m3u8?userid=7576776924&sign=5a214122909553f10542e8417124d7adb8e3654c34482acdfba9ee86fd6e7c4efe02ea2d062912e655c455b6450736d0d2f1400c2085ed7a4f7a1ef9ac8075484ec7b88361a051d826f7839ccac925b308&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/guangdong.m3u8?userid=7576776924&sign=4f7dbbd7e909654718949fa5864881f9280dd7277cd930eb0b0734a9f1b76e27cd03baa6d51ea1ca74a703534b97c97143acdb87de3c5d6019d0248c551f62661df8e3c367998056c6fb2b9be6e59e8eb1&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
-https://mursor.ottiptv.cc/mg/608831231.m3u8?userid=8279722281&sign=909cb135d93c22b3bcd86730c678d91229e87074e8fc2d34be025b589ad676a9e07a6b4938ff3a820c94927aa7c07e95194fc10a1d83bfed09208983021f18e6ecaa624dae012ea82e51f9da8c88281818&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/608831231.m3u8?userid=6356119344&sign=c6715019e08646ccc00454d82fe073cefebabe76068c7544b7c4cf9e1e02a39412c5fa528116b90e8a3921849386e3a9b8fcff1787fd9aeb4ca10940db6cd03a84113f18a0071e18c42781da93465709e7&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
 https://m3u8.iepose.cn/gdws.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=gdws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
-https://mursor.ottiptv.cc/mcp/hebei.m3u8?userid=7576776924&sign=e6e29cf38934c83cbd23e8e3681c9b8c5b7807654172a5e64ccf7e102e409f27517044b95701106a26d811f3c2445a514665c7bb6756f519e618c43f4a86aea1961d3c69eaa7043a6093b4b6e3&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/hebei.m3u8?userid=7576776924&sign=29339cff53f486fdbe16ee5c52a052419e5e9ea6573c55c2c762f5238eec97bb0d979628defdea56f99a8ed1fe642e7eb382aa9bfa222f5bf96856eff3e521efa1e487965635ca76e180f27245&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
-https://mursor.ottiptv.cc/mg/962042070.m3u8?userid=8279722281&sign=bbd4d215001248d6d96c1de9b28dfdd786224dd90c7273e8d4f29580f564ed839047d39b9c91df08875e4ca52c2889bb68a777b2146d227955c4e09525e5fdd5a7564b679505e745442d10ca845c38b8c1&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/962042070.m3u8?userid=6356119344&sign=7e43351609c8eb7a39127ca983f151d5a21b63074e7196aeeec6d8af835b9883fbbb51e5569f5b01fcba57fbcacc1992baeedd0b9200474404537a707481166ff001778c4e86b4aff5230ac88cc21759bb&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=hbws2
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
-https://mursor.ottiptv.cc/mcp/shenzheng.m3u8?userid=7576776924&sign=fb50a2ad48d398add1a6d23cf78a354b179776f67441760d0d3ac20726c1c4c1379fe0d16c95f52dd1535188bffdc8fb648b4d118689f69944554adc97d4c5c08e1bdb9c1728affdcbc0f1f79663e2aeb6&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/shenzheng.m3u8?userid=7576776924&sign=db25071ab30f4e6bb0884a3837072fc3f0b6d92e33d9894a749f503961ec736ab134f6ec75a017730d8bfba3539a739abd053c3e198f13090c40f268095296ac2c4fd14a48a5a9fe9c34c45214c5c5f351&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=szws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
-https://mursor.ottiptv.cc/mcp/jiling.m3u8?userid=7576776924&sign=7680f18d7f9b979b6c11e603bdce0a4d7910200ac5cc13c9cc4b7869b496e06ac4911079748ade2b32042d3f0de3abb018b08cead38d674d7b714ec56c4ea46321735105ae4414f51c2029141f0a&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/jiling.m3u8?userid=7576776924&sign=fe3343468cdb4d46fbd7fbd63e0b9355d8589812dfb83e49fb124bdd5c7869a47c189135f26678b55ae099793058a780ee1519d525b0c6e67700e0d02961637b41c116b69cb12c124953e3d01517&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
-https://mursor.ottiptv.cc/mg/947472500.m3u8?userid=8279722281&sign=3056f570cb140e90376455e57ec00a31e857977d1da08e05721c12a55ae4376537b9e6ed7203885ce24a1d15bfdfdcc50241c5f864f3267be5bc1bf00b345ac7dd94d80e0a32f8503d6b8a3137fa2c550f&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/947472500.m3u8?userid=6356119344&sign=a27c86c2dc51bc3668c4c8f97719273895c5c54b9756af0edf8cedad3587e49525781d3a8334e9f627ee409b2fe4a1bbfce602a7a752918691fbc02512c3c2f563fb616a77832d6c917684ec1723b9968b&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=jlws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
-https://mursor.ottiptv.cc/mcp/henan.m3u8?userid=7576776924&sign=ae5c127c525958bcee3b6c6f6da43e4add787ef24d4435433e7bd56ee725e6afd7864ceeef904e713a3fb1b835e87f35caca205a9ae8a20dc935867632125fbb608bf8cc389a8f81894590ff7e&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/henan.m3u8?userid=7576776924&sign=e027fae37087b3200ee7d2f29bfdecae35705287164061701f5ecd7c0844bf3c934ed765f8decd0c2caad56309037d0952a685ab8a75c7ca90d9cc7dc0e98ee68dc449f33bf22899e81f5b9366&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
-https://mursor.ottiptv.cc/mg/790187291.m3u8?userid=8279722281&sign=5699f64f1207337a609eda415b9e97cda1d56cf40582ff35bc69cf303bd9f1b9c571fa3dadf3832dd393670dfc0cf51f4992b688f6de27e743c0b23b709d2f03f7f484cf08f6005e137ff86e5bd13db4f1&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/790187291.m3u8?userid=6356119344&sign=5c51cb527da2722ece0a4142e340156a8e87c5142d95565726134aa7e598c152e8853568c5b56fce510600698eb92ff54be56f8b9024e7915fb3f19fea20758409b0485c73738bb0511251028bd886172c&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=henanws
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道",广西卫视
-https://mursor.ottiptv.cc/mcp/guangxi.m3u8?userid=7576776924&sign=3ab1b13cb02b4a1525148ae4ce9d645b369f913cbba97ebdf223c118512c5cc6e5772d1663fc7c627932c76b5178314afc0a49ac919a7d7fa44525afa0b586052b03528aaaf9aede8188b9099df278&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/guangxi.m3u8?userid=7576776924&sign=a7d0177f92e4905358b8b693ccc6a9b9706d25dc51eeb7a47b31d69228bf2db9ca91178d4f77cbf8f429f519c9dcb9520d83add405cc887f62071ad91662233ae0760ded02c88db035d11a35bf2455&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道",广西卫视
 https://m3u8.iepose.cn/gxws.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道",广西卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=gxws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视频道",陕西卫视
-https://mursor.ottiptv.cc/mcp/shanxiws.m3u8?userid=7576776924&sign=6b45335af197048aafdcb718d02e16bc46b3bae24aad21a8d396ce9797c92fbeda3cd9b84313f301ef08db1cae1d72a1fa9b4bf20a65af6a07ccd43063f155beb16399138c7f7a9548334d4a9c4c3106&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/shanxiws.m3u8?userid=7576776924&sign=d729d8e56992f57760f5375874146b7acb4c0bac93b796fbb3ea7dd5ce899c2d740a36511b62865c6280704a16697eb234da13fdc86e0da365711784bf70b320f310648acc60253e5b0a9fa41497600c&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视频道",陕西卫视
-https://mursor.ottiptv.cc/mg/738910838.m3u8?userid=8279722281&sign=3cd03d436913743a25cd0f3eff82790375e75c27f3b33a4c281afcfef1ac60290b7c030ae8a1ebdbedbdbd3b7e2aa6dd36079c95ecdf2ab79e355f24afa4a42c570e43ac211af3ab5689effc3012be09a4&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/738910838.m3u8?userid=6356119344&sign=f42adf2f90a02b28cfe5ad0899cab99e764d0f84c64168f5f0b4f7693069658f82f1d4f4ae616c77552cbd8c8ee14568777286717f851f35f11a96d17648922cba03aebe68f32e6fc55bf8dfe952f6f1fe&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=shanxiws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视频道",山西卫视
-https://mursor.ottiptv.cc/mcp/shanxi.m3u8?userid=7576776924&sign=d7f7863538d5bf734c2190c2d9ce9885d5ba648173825bf22424dd948c9ab7e19453a2e9a563bd35cdc25bff45f7b4853cf6dac04f068f9f622645a0f01fc6dcdcc3bf1e1fdc0e2e436ecdc79716&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/shanxi.m3u8?userid=7576776924&sign=182c032ab3bdc81ceedacca9ae1aa7548a1e73e3bd0db27f529a27026f6097386176a09552f34babf405e80b66fdf8231f97fa1f5d0b4e164962f2044980b2627c4786c503dd1c010b38a6817b89&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视频道",山西卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=shanxiws2
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-https://mursor.ottiptv.cc/mcp/neimenggu.m3u8?userid=7576776924&sign=b5beb7f071b684430fff8b9e4bb7fb51486201750ff32010fb023b6f48fef3cad5453f7ec3a3c177de3befbd6097c2704f6c6c4b58470b114ac1caf329e5768754811ad4217ed93b8ae9db4f342663d758&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/neimenggu.m3u8?userid=7576776924&sign=1c3e3a942dc95a3edea6eb66215372a14be30163f57ba91ecaf1bf4a28e1dbedaa59fb2a09d84a6120c4849d165e511972857df4b56f7176f2a5e584658bfca653f8f33031278269ec02d00eb0578c7ac5&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=nmgws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道",青海卫视
-https://mursor.ottiptv.cc/mcp/qinghai.m3u8?userid=7576776924&sign=432e9590ad679597a40207ae842340391ab888a78085d7eabc995979b16fa2845c7c0ac0daf0d723aa38e317138abd4111f594df3afefc3630033dcac944182e2fd6283366a8da23ca4991f79b0d10&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/qinghai.m3u8?userid=7576776924&sign=5c2b95d50a09d96a7e0016ac6afb3887b4d4886d0528df8fb471ab149572526d79560822681752d0098dbff2549be546a92b3737ae444f3a058e1ee5f86b88370e9d1650be6183f2f11c1ab18972f9&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道",青海卫视
-https://mursor.ottiptv.cc/mg/947472506.m3u8?userid=8279722281&sign=5c52913df7091d34a9239231d5a3ab0777211ddbaac93a66218c0dfe6e923da66a81e8bb33d496dc934848a14f00ff5ee8bc296f7ea1b8779ed8543701b119ffc4085c70d929daca8c92c5349040abb754&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/947472506.m3u8?userid=6356119344&sign=8b143c7f944b8b9ddcbaa62487944a796feb2415f21fd0376cae2d6937ea41d68855bf32e7bb5cf11679d712cb8248fb08d11441b12cf41dbaa183e7ff446109e245a28148c58b0e8fe13899aaf247bbec&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道",青海卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=qhws
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
-https://mursor.ottiptv.cc/mcp/hainan.m3u8?userid=7576776924&sign=7011cf4646bcd41e6611c86a502be0efa650ae43c3ece1f61f73f6a936d8fb8578b816554dc954ad4f8da9e2ab393434f4480a0a41e7d9bf59fb0bac2a41b2213bb34f8c267b552a98be6c84d729&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/hainan.m3u8?userid=7576776924&sign=175a23c7ad31bfa39d3d31dfa935e6ac5c00bd1f013b2a9a2f4189cf52be566367e7b7c6dcc2850df45c9c582721edb3b622928830e28f48fa6881ab5429d6c84b09a18ade63b9a5f18aed7d3aef&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
-https://mursor.ottiptv.cc/mg/947472502.m3u8?userid=8279722281&sign=110a94bb95e2c811e1dab19ac4edfc1da139a5c7821080ab0233e5db72c8364bc3f5be9a07233c96cc2be1610d0dac87538ba4820eb1c1625dcea3e20e507a666052018f2360032917bf43c9023aac08c9&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/947472502.m3u8?userid=6356119344&sign=1745ca50fb7fb50460c6df1ae28750a44f7cefc43e89628faec7bd22c210612a8883506c1a54f570e5662f4cf14486c87375480c8cd0dbe26db446f31d70444ac19eec3539672f12bed236ce457b7dd6d8&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
 https://m3u8.iepose.cn/hainanws.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=hnws2
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-https://mursor.ottiptv.cc/mcp/ningxia.m3u8?userid=7576776924&sign=567d66a7745977aafd91b310dced5c961d3897aa72c6275ff2db96b5e1525cd191c445a6541abb6cbad62b0cb56c552337abfb63b81d27cd840546411e4b8bcfd39c66c8a352d66deb45934fa0b8c6&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/ningxia.m3u8?userid=7576776924&sign=aefa8b6d1670c3e1cffef29ccc072ef9a856737501b1af04110f52f3c0e43067ebd2ff5d74f49760ab8677b6daa14d2fdff354a01d05fc3af51b7086f9e3eebeca99270a0e88336c7d1c21951300f5&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-https://mursor.ottiptv.cc/mg/738910535.m3u8?userid=8279722281&sign=d25e5b41012cc66b5996e4c57dc14d2cd2a494b8764ac270652a26ffaf1e5fd60ee7a1dc492fdb9e5360593ad6c2f990cf986d54659788b53d3c4f0c12408d1c5ab2441f3cd7fc396a80c00d498471923e&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/738910535.m3u8?userid=6356119344&sign=884447807d65de9b8127f0922e9c9feed9766ec2e3060d1fb6027745c44f2b9b00d5e5ad8788d8fdb771c1d0d43199c8a826c91c58c8201124ae6cfb1077664fce142db02d8fa97b3ad9e1fce0a9069a01&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=nxws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://mursor.ottiptv.cc/mcp/xizang.m3u8?userid=7576776924&sign=8ff0fc0db7918e5f048ed29c7c90f04361e3ddc9b1e9f61350c753fe1522e62031a0425b7d92c7d0fa027aee0a5b81eb653cfc613e8200c2952bb40145087664a06fa63a09fab667394b0e4b154d&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/xizang.m3u8?userid=7576776924&sign=c5936decbeb2dac4b8cac7e89e9d2055b73a40527db07844ccb75dc3c877d553f4a379edef5957f314290331046284d08cc752a311422a387b69627a34926135bf54f3092a17bc9979c54dc3299b&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=xzws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视频道",新疆卫视
-https://mursor.ottiptv.cc/mcp/xinjiang.m3u8?userid=7576776924&sign=4c7e97c7e0e1c33b0522502a4e8acdb1db97c7873f322cf013b353d004d879b22c3d440a12a6fe649aacac998577a525ed28c68259e1c64bdcc1ba1484ed219f2c94778bdc0a01c544c455524397a26c&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/xinjiang.m3u8?userid=7576776924&sign=7731a4a65bdb0363b14d8426cf26ece8df6b39982ffc649872e1974fe0e65a28c80e1f1c5e94c6a0c0a022433d4eab389c4c17ca5590b2ddcbf7bb6159881aa43b013a5bc63af5b97d1b10345506b810&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=xjws
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-https://mursor.ottiptv.cc/mcp/gansu.m3u8?userid=7576776924&sign=a6df627c8ade56e490890a05284d8a7d01fe94afbfc4357c24d7c54c8444c7b518221224091f31245cbba4e190c30cd4f5e4a0c622f18c292fff97f7da0ab7d95be38151304ae59b0fa9652e48&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/gansu.m3u8?userid=7576776924&sign=f3974953cc1d4e70621987f5b8ff18346d20dd0784823b33120fd8152b2683edad73e696a6cb6d770c6c6f7f5bd08db5a0cb7ff5245783dbaa147b1c56925d803f5b1493276da99f1d665e28bc&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道",云南卫视
-https://mursor.ottiptv.cc/mcp/yunnan.m3u8?userid=7576776924&sign=c8378c04975835de23810fdb6f3a907a3a41fba94a2425382bd64c5750c6e05bc71dd14c738de68207479a9fec988abb41516dfec2bdbb9523895afb539aa78c5593f46ab7a3225b48a5d4e5c99f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/yunnan.m3u8?userid=7576776924&sign=f54b2aa96e0fbfd631a2446c24bbb7bc5ab8370c88be5a58508c530dbfb15336ca3e7e05f1be92a3f93e540059fc11004f10734ebc3a830f4a100c3ec844bf6551d1af2c90b47351a50cc99810db&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道",云南卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=ynws
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道",兵团卫视
-https://mursor.ottiptv.cc/mcp/bintuan.m3u8?userid=7576776924&sign=0f823a61dfa03b9891d15c5747ce456e4c7d647ef625852751bda442465619fedcefa55786b8f029046dcb3356dd3fe31204d48f12fdca9124fa91b12d2aff8f0d8295f188dd1d8184043987d8d793&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/bintuan.m3u8?userid=7576776924&sign=e1f655884ac2ca579ff0951c57e59ec55f7449033080b6e1771565d54cf893e039ec423689c543fc48a1e2441bc2708acb31c706a7bba3900154c5bde8f90afe1b5db80bc7fcbd1220c8fc82ae61cc&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道",兵团卫视
-https://mursor.ottiptv.cc/mg/956923145.m3u8?userid=8279722281&sign=4ef3ce9e6e6c42988d64bd8630bcb9cf6fbbfec43ae8c75ff29c7b216eda1b35c93b15b304ac78464d454bec38ebf524257a557718a810ca523b81ba66aac2e2c51c6bfa74a996bd616435fd33140ca2f4&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/956923145.m3u8?userid=6356119344&sign=b49aa2b097e0754ac99e061a86292d2a2a8fccddbe414a0ac2dc1e71ac8ae9ef5fb113ef78a692e029ed1e9c022a5b5d5c315d01b9499623740ad9b2936ac12a6e3d916003d593ea0b4d207f64411e45d2&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道",天津卫视
-https://mursor.ottiptv.cc/mcp/tianjing.m3u8?userid=7576776924&sign=bd8e1ec98762a2043ba6472eee990a8839de4128e93e2c397a3c95791d39f89b73d474f07dd90145aca4fac8bf05572fa371c6f94389c695c16a5912d7e19e137936776ec867bd498176ee81a046d218&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/tianjing.m3u8?userid=7576776924&sign=4a338cb292678ecc5eaeafe4596e6309542923af5fe805888cd5eb10e273898ced73bf2c9323033cbc378651a87ae4e2689123f74aac8e52dc9dbe57250ad154f6c53ad3650e0088db34cfd91e9e075f&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道",天津卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=tjws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视
-https://mursor.ottiptv.cc/mcp/shandong.m3u8?userid=7576776924&sign=d049eaf1f0ae192000d04f7ca20b73ed08ec983d2a88c7c2f3f1e19a7233c8bec2d93a969c65b128788741f2fb9bcbe6d4db6c61feeb1e66ba8314c95c4107388b25bc528741f8487900ac40ba013508&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/shandong.m3u8?userid=7576776924&sign=a4be1542b7eee0748daef418f08ebd0552caf1ecca65b2162226321fcd9dcc2262334ad3b5150abe721eb72d47b87fd06073ed517dc841f8cbc525f9968396dea56e2d5a99377c829d93f2a35f2d80fc&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=sdws
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-https://mursor.ottiptv.cc/mcp/liaoning.m3u8?userid=7576776924&sign=7bc6892ba7d9df1543280ab3ac7bcc9ca0a28ac3c3c927e19923800c8e8ebb4c61925526c9d92618a2ea7aa0d4fb7430471e85fdd52083b8c567b27a84cfc7c0102ea3fea53775458c41c1198f2e9704&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/liaoning.m3u8?userid=7576776924&sign=71ae7a16d15b40144bfdbea04deb62d1f00074f48ece2cb1d1649a3681252ba6f043100db85d6049db40bcf780eccf75850df9ae71facc9317714368a5438791ce35a4fb353b6568bc1defba7bddc9e0&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-https://mursor.ottiptv.cc/mg/630291707.m3u8?userid=8279722281&sign=866974e1575a2bf3c91a33a80aaf9f12d91b35d05cfef2f325ef484b1311294b19298cdc7efb63b28a5a40476c0f04df2489d35e2254602e02bff559b65a55570da8ec8ed7d3d2a1454209230950c3c575&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/630291707.m3u8?userid=6356119344&sign=e6fa1f2d7b591f45f6af00b7f69e21b7848653f33c649cd40cffd96a12be934eb02644c94ad3767e45d4a93091d2cbdab531c43df205e1122fed6f033820b8e1578370f4047c847502211f9d6830e861bb&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=lnws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://mursor.ottiptv.cc/mcp/hubei.m3u8?userid=7576776924&sign=b9a4110108e3a8abc7a277921f7f086f7d14be76b8b9352e4172251bc2b493a312cd84a4e1ef625d8fb24f9b687c396930dda10c7d45f28556ed3dc1a067e19910d30be3a02645bb8d2265de58&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/mcp/hubei.m3u8?userid=7576776924&sign=c7774173c438e2d7c037d7f22a78712859c74b974b072f4432e1a21524e3fc7de72b526decfeddba3bf6307f6ba494b5edb76370e6a61a83b8e2a258fcf9d60a2417ad79753f050e301d7b4cd9&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://mursor.ottiptv.cc/mg/947472496.m3u8?userid=8279722281&sign=cb577db4a294246510d2cc37e7121dda042a23b61d7984da15d3ae69e6a6b60fc055830d099c8946a25330a990c1315dd27e836670dce2f84df1b38284e3baa5de33574aa649072715ba0e667acc4239d5&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/947472496.m3u8?userid=6356119344&sign=8a18034977c50e336ade2952a2d6eb947641167caa88a546f407672ca8e9cacd22c1addc987d9fbe674a4528604010b54c1d445ed74ba3d72c747624bad07c53ef286e96fde858e262665fdee121adad36&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
 https://m3u8.iepose.cn/hbws.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://ysp1.iptvlive.cc.cd/ysp_home.php?id=hbws
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
-https://mursor.ottiptv.cc/mg/952383261.m3u8?userid=8279722281&sign=981faef6229e60fa357890116a58d14f9bf2fbb6c7edc075fa68f9367c1d940a6ca0a65641b30d481b42f5b596bc195cae6fd6685e5adb6911e24a2ae6bd74d8faee702387748b228f0451a4413cf99eb6&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/952383261.m3u8?userid=6356119344&sign=66c978c278d6d7abd266962da7328e32e924810b11f297263bd4c7a90414214e1539fa5108af6fc7b47edfcd5853dcc471752b8fd1a4f354c2fb46067d6f49be15d89966d442ab468c7d9329e72db8e663&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视频道",CHC动作电影
-https://mursor.ottiptv.cc/mg/644368714.m3u8?userid=8279722281&sign=976b5db492e39a96509d97654e6dea09503372a6fe8e8b38ec157a3c6eeb6f108c393f52bab21b13e0306402c312f5a2b32e541ab4921b3dd6cfc073052aebee779f92240e8a858d4feb48e8c4491396a3&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/644368714.m3u8?userid=6356119344&sign=0d07e440b01a9f471e87b404acbea266f4d71f00f5fcea241c6e728fb53e67c01e36b3871c15b60de5b555dcaa9b74562a94a95be4cec3f48ebe70a7f737647c12be6c1bb8afe90552d2aaee80fb16de45&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://192.151.150.154/live/chcdz.m3u8
+http://198.204.228.26/live/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视频道",CHC动作电影
 http://107.150.60.122/live/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视频道",CHC动作电影
 http://204.12.221.218:8181/3m1080p/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://198.204.228.26/live/chcdz.m3u8
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视频道",CHC动作电影
+http://192.151.150.154/live/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-https://mursor.ottiptv.cc/mg/644368373.m3u8?userid=8279722281&sign=98db207b9e6a3579156cf5f46f60ca0950d4964489f10f92761d27eb2e240627086912e464d16cf36d1b022599a897c81e1dca0eea098c3ce6ccc5413093b222e425656a2c0c96b93cd87db1242f300b59&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/644368373.m3u8?userid=6356119344&sign=3938ee163ec40891ee2b4f6ac078570ac3b3cc15fa26666301cb2c957bf0bce378eac196d00ec430c8355f226831a0065a19d88fd3d151f16f77e6ca9f93c51adde292d70ec633ea4ea8407ae4c340b321&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
+http://198.204.228.26/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://192.151.150.154/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://198.204.228.26/live/chcjt.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://330459.xyz:8188/rtp/225.1.1.213:5002
+http://113.26.251.182:8009/hls/82/index.m3u8
 #EXTINF:-1 group-title="影视频道",经典香港电影
-https://mursor.ottiptv.cc/mg/625703337.m3u8?userid=8279722281&sign=0cc28ef28deff98849366b22b59deed707ab49d3803c9e9421ee8ee1c9c41a825257a007178b8df020786660a62cc38cf138133f3a574e5ed968a4d3887bc6ed6af1beffb02e9c8c9ef739dd443225b9bf&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/625703337.m3u8?userid=6356119344&sign=b7e8ddf67025b67c29818961db7b2475a77d7bef9e6604a3e6e1c125632be7be88377b3aa3a1d643c0b578235c210a96680ccc28037121e6a94196e8b23a1555187f438a568bc167667f51092596e4919a&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 group-title="影视频道",新片放映厅
-https://mursor.ottiptv.cc/mg/619495952.m3u8?userid=8279722281&sign=65bb02009d69ca663b574d2a2f55a5504b9f3432aa75b049f860d88dcf980a128647e9c8cb190e5bab9ebd37a690aa3085e469f035a7adbc9e4440c637b941f8924d339f8dfaa835fa97a2ae08e16376bb&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/619495952.m3u8?userid=6356119344&sign=c1e362b28e7d0f184799fc678dc89f7a888ad73762d0a2750f903ff7cfbf330b95a66e5f8751522da144c4143db1811fdbafe825f5838ae4335ea6fc696db67ccb130457c3bcb1acb34988ecba28ad1b46&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 group-title="影视频道",南方影视
-https://mursor.ottiptv.cc/mg/614961829.m3u8?userid=8279722281&sign=4442663c4ee0d694f9493e9fc9920276b61929d560647fe34fff53129f37909df8bbe60ac7a3dd4ee57c88f3f07e801310b815575b7fc29a7131069a479e827fc30b614daa60977d450ff3118c61adaa3a&auth_token=4282b3962935b137f466209cbbc0d8d0
+https://mursor.ottiptv.cc/mg/614961829.m3u8?userid=6356119344&sign=cc031dda38c60a7737915e48499f94915c69880ac69ae79cae8f15cd5f558cf4890521a5f7b297e9f47ed892176379cd3e779a6e2a9569f282a0ef29270e298ecd0a8f3d4a1e97b58df05190aba8340580&auth_token=b343894207c0c0b828480a4fb5a5463c
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="影视频道",五星体育
-https://mursor.ottiptv.cc/other/wxty.m3u8?userid=7576776924&sign=4db0bd7a5d99b98a2cc9f73b3bd9f37a6c230bc118e1209342d41cd66f2e169868100d876ba33d8d10daa4002bd5bf25104a917f9833a41834b291e6cbd63279395af6f62a8d0c7108a06506&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/other/wxty.m3u8?userid=7576776924&sign=59c9e373ea0a5af8c7accf9f295e1ba21ce2332628d9f563f27f1b2b310be54e6815d7a955fff95017657d350ebd88356c710acbe6d420a1a017b8a45ae9a0510a658835824b8b66eabf6b62&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="影视频道",重温经典
-https://mursor.ottiptv.cc/other/cwjd.m3u8?userid=7576776924&sign=e4e0a14ddf74634757ec04e040538dfcce82194a5d93696a13593df9814c4d3614c9e7a5aeca3c12a7f1cc28a08d2654b74209271f17abc4602c37ed81dfc85a45f665631f8a2ea2c881810f&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://mursor.ottiptv.cc/other/cwjd.m3u8?userid=7576776924&sign=be85657eb1faf5a71bb8179ad0ab63c8aae0c618a8eff445fc1d660fd43bd081296cd61e730561e9e79fb4b53ec07674ef12ec41d2520883f79c7ff7e9642c94da644079dc501ffc1965fbd4&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-id="CHC电影" tvg-name="CHC电影" tvg-logo="https://livecdn.zbds.org/logo/CHC电影.png" group-title="电影频道",CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="东阳影视生活" tvg-name="东阳影视生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东阳影视生活.png" group-title="电影频道",东阳影视生活
