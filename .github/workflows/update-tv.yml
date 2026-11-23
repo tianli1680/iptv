@@ -27,7 +27,7 @@ jobs:
       - name: Download tv.m3u from source
         run: |
           # 原始链接，直接整体下载，不做任何内容/格式修改
-          SRC_URL="https://raw.githubusercontent.com/tianli1680/xiaoyumengmeng/refs/heads/main/tv.m3u"
+          SRC_URL="http://iptvtool.iptvlive.cc.cd/tv.m3u"
           curl -fsSL --retry 3 --retry-delay 5 "$SRC_URL" -o tv.m3u
           echo "Downloaded size: $(wc -c < tv.m3u) bytes"
 
