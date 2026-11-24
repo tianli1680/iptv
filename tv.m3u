@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://42.193.100.235:5678/t.xml.gz"
+#EXTINF:-1 group-title="更新时间",2026-11-24 17:04:05
+null
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道" url-tvg="http://42.193.100.235:16677/epg.xml" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV1
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
@@ -264,6 +266,8 @@ https://mursor.ottiptv.cc/mcp/cgtnru.m3u8?userid=7576776924&sign=a8f0f7ff7058bf6
 https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8?userid=7576776924&sign=38190fe2bb4e1fce91724c16f96ff39f587d48b0bad488c4b60c08576d7015494f63b11289e8fd5917cf441aeeeb898053c641285ef07bdacb116658ba5270f1df2db67ec037a20b174cf174bff0&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
 https://mursor.ottiptv.cc/mcp/cgtnav3asfhd.m3u8?userid=7576776924&sign=ca2a480e9d07c1e3e7ee845fbc4fd865d3d619447f59a87df3a9196afa50cff79da483ed0c059887178b4fb3da1112c7bccd30832f7842ab08354ac591ff7f47eae2acff71a46c68ca9ea05c418224dd7d902645&auth_token=4170588d643aa44e389f0bdd82c0d18b
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNDOCUMENTARY.png" group-title="央视频道",CGTN
+https://mursor.ottiptv.cc/mcp/cgtndocav3asfhd.m3u8?userid=7576776924&sign=cf44ca193a30239c8eeb8028a6c1862fa4d5cd92032067201b2bdc67a7a14dafebedbbbdd765b5f570302f0310fe34115e09aef36d1af69771d163a777d4f7ad8f35c98b8ad5d2889a516d56a7aa0e6177c8f21f20c4d6&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
 https://mursor.ottiptv.cc/mcp/cgtnruav3asfhd.m3u8?userid=7576776924&sign=aef9794daaaea9517abf288e9492818e1fabe2a397dedd3aa155ee8348e9ad402a2283bf55094f5118f5288466fc469c49b8a278362ab763e52d257fb631f15bf0f2a61c36f4359580bfccdfdee739164a2d3b591eaf&auth_token=4170588d643aa44e389f0bdd82c0d18b
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
@@ -632,6 +636,8 @@ https://live.metshop.top/huya/23824164
 https://live.metshop.top/huya/21059581
 #EXTINF:-1 tvg-id="怪兽电影" tvg-name="怪兽电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",怪兽电影
 https://live.metshop.top/huya/21059577
+#EXTINF:-1 tvg-id="成龙电影" tvg-name="成龙电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",成龙电影
+https://live.metshop.top/huya/11342386
 #EXTINF:-1 tvg-id="战争电影" tvg-name="战争电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",战争电影
 https://live.metshop.top/huya/21059574
 #EXTINF:-1 tvg-id="扫黄先锋" tvg-name="扫黄先锋" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="电影频道",扫黄先锋
