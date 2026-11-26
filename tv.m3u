@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://42.193.100.235:5678/t.xml.gz"
-#EXTINF:-1 group-title="更新时间",2026-11-25 17:32:23
+#EXTINF:-1 group-title="更新时间",2026-11-26 07:32:14
 null
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道" url-tvg="http://42.193.100.235:16677/epg.xml" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV1
 #EXT-X-APTV-PREVIEW: FALSE
@@ -1350,3 +1350,9 @@ https://mursor.ottiptv.cc/huya/21059580
 https://mursor.ottiptv.cc/huya/21059554
 #EXTINF:-1 group-title="虎牙频道",杰森斯坦频道
 https://mursor.ottiptv.cc/huya/21059588
+#EXTINF:-1 tvg-name="[06:00] 热火 VS 76人 (中文解说1)" tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NBA",[06:00]热火VS76人(中文解说1)
+https://live01-cn-ali.xqnbu.com/live/65173191_tsc.m3u8
+#EXTINF:-1 tvg-name="[06:00] 热火 VS 76人 (高清K)" tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NBA",[06:00]热火VS76人(高清K)
+https://hello.ooo0ooo.top/live/3931499.m3u8
+#EXTINF:-1 tvg-name="[06:00] 热火 VS 76人 (高清B)" tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NBA",[06:00]热火VS76人(高清B)
+https://pul-tenm.gkykp.com/live/hd-en-2-3931499.m3u8?txSecret=66f3f1b2ae439140cc81f72dab56053b&txTime=6B08C0F8
